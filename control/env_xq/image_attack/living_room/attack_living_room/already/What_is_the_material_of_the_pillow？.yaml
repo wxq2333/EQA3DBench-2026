@@ -1,0 +1,73 @@
+# Question: What is the material of the pillow？
+# The pillows in the images appear to be primarily white with dark blue or navy accents. If you have any further questions or need additional details, feel free to ask!
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.847921752459818
+  - -0.7
+  - 4.728312850056177
+  rotation:
+  - -179.97914367736243
+  - 160.11254348538
+  - -52.30380919209286
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 46.34405316596445
+  - 63.08937454203817
+  - -172.68648962703162
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 5.155386311609232
+  - -0.7
+  - 5.386987983092391
+  rotation:
+  - -125.6781971257976
+  - -155.3630732626205
+  - -141.20445142882795
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -17.794719745720215
+  - 70.59615230700712
+  - 10.788747939239897
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 5.161265531073982
+  - -0.7
+  - 4.7
+  rotation:
+  - -83.90938518787476
+  - 114.15175549554857
+  - -178.43768260449497
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 22.071838355295995
+  - -95.90326869650679
+  - 75.41951334849531
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.941885141142585
+  rotation:
+  - 47.80640847395574
+  - 171.24466493242028
+  - -175.56723442417285

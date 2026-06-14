@@ -1,0 +1,123 @@
+# Question: What’s the color of hair dryer?
+# The hair dryer in the images appears to be predominantly black, with some red accents.
+objects:
+- name: towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/towel_rack_41.object_config.json
+  position:
+  - 12
+  - 1
+  - -10.9
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: white_towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/white_towel.object_config.json
+  position:
+  - 12
+  - 1
+  - -10.6
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toothbrush-holder-ceramic
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush-holder-ceramic.glb
+  position:
+  - 11.6
+  - 1
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toothbrush
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush.object_config.json
+  position:
+  - 11.6
+  - 1.1
+  - -9.1
+  rotation:
+  - 90
+  - 0
+  - 0
+- name: toothpaste_tube
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothpaste_tube.object_config.json
+  position:
+  - 11.6
+  - 1.0
+  - -9.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: soap_dish
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dish.object_config.json
+  position:
+  - 11.6
+  - 1.0
+  - -7.9
+  rotation:
+  - 49.22761842389491
+  - 120.10488642003531
+  - 35.18824545452276
+- name: soap_from_poly_by_google
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_from_poly_by_google.object_config.json
+  position:
+  - 12
+  - 1.03
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: hair_dryer
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/hair_dryer.object_config.json
+  position:
+  - 11.82009319613248
+  - 1.0
+  - -10.9
+  rotation:
+  - 26.595097633781336
+  - 109.229731491645
+  - 97.4087297721494
+- name: table_mirror
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/table_mirror.object_config.json
+  position:
+  - 12
+  - 1.0
+  - -9.4
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: wooden_comb_for_travel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/wooden_comb_for_travel.object_config.json
+  position:
+  - 11.8
+  - 1.0
+  - -9.8
+  rotation:
+  - 90
+  - 0
+  - 0
+- name: soap_dispenser
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dispenser.object_config.json
+  position:
+  - 11.730564055043166
+  - 1.0
+  - -10.9
+  rotation:
+  - -67.60803805780793
+  - -82.3712112094376
+  - -68.48949790986478
+- name: toilet_paper
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/cc0_-_toilet_paper_roll.object_config.json
+  position:
+  - 11.7
+  - 1.0
+  - -7.9
+  rotation:
+  - 0
+  - 0
+  - 0

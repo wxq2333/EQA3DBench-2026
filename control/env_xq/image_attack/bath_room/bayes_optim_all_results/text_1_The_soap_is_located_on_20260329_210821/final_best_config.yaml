@@ -1,0 +1,122 @@
+# Text:The soap is located on the countertop. Specifically, it appears to be a liquid soap dispenser, sitting near a set of towels and other items. 
+objects:
+- name: towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/towel_rack_41.object_config.json
+  position:
+  - 12
+  - 1
+  - -10.9
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: white_towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/white_towel.object_config.json
+  position:
+  - 12
+  - 1
+  - -10.6
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toothbrush-holder-ceramic
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush-holder-ceramic.glb
+  position:
+  - 11.6
+  - 1
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toothbrush
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush.object_config.json
+  position:
+  - 11.825510079371856
+  - 1.0
+  - -10.542786997796442
+  rotation:
+  - -169.44566083963704
+  - -2.1892196992191657
+  - 33.341692175332724
+- name: toothpaste_tube
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothpaste_tube.object_config.json
+  position:
+  - 11.659923850969783
+  - 1.0
+  - -7.934933530850237
+  rotation:
+  - 68.40724943350153
+  - -105.60203739694238
+  - -32.94772878418249
+- name: soap_dish
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dish.object_config.json
+  position:
+  - 11.600502718157523
+  - 1.0
+  - -10.12086668780101
+  rotation:
+  - -101.72773039168324
+  - -127.70059789663037
+  - 174.98587332198764
+- name: soap_from_poly_by_google
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_from_poly_by_google.object_config.json
+  position:
+  - 12
+  - 1.03
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: hair_dryer
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/hair_dryer.object_config.json
+  position:
+  - 11.902643875895198
+  - 1.0
+  - -9.02493235704411
+  rotation:
+  - 102.46438215719576
+  - 83.24429217500625
+  - -105.36743763261308
+- name: table_mirror
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/table_mirror.object_config.json
+  position:
+  - 12
+  - 1.0
+  - -9.4
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: wooden_comb_for_travel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/wooden_comb_for_travel.object_config.json
+  position:
+  - 11.8
+  - 1.0
+  - -9.8
+  rotation:
+  - 90
+  - 0
+  - 0
+- name: soap_dispenser
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dispenser.object_config.json
+  position:
+  - 11.732470565640426
+  - 1.0
+  - -8.701642082906817
+  rotation:
+  - 3.6928156320323637
+  - 138.63028297444083
+  - -35.47662469064201
+- name: toilet_paper
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/cc0_-_toilet_paper_roll.object_config.json
+  position:
+  - 11.7
+  - 1.0
+  - -7.9
+  rotation:
+  - 0
+  - 0
+  - 0

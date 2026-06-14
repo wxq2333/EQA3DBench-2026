@@ -1,0 +1,123 @@
+# Question: Power up the hair dryer
+# Locate the Hair Dryer**: Ensure the hair dryer is placed on a stable surface near an outlet.Check Cord and Plug: Inspect the cord for any damage and ensure the plug is intact. Plug in: Plug the hair dryer into the electrical outlet.Select Heat and Speed Settings
+objects:
+- name: towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/towel_rack_41.object_config.json
+  position:
+  - 12
+  - 1
+  - -10.9
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: white_towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/white_towel.object_config.json
+  position:
+  - 12
+  - 1
+  - -10.6
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toothbrush-holder-ceramic
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush-holder-ceramic.glb
+  position:
+  - 11.6
+  - 1
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toothbrush
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush.object_config.json
+  position:
+  - 11.6
+  - 1.1
+  - -9.1
+  rotation:
+  - 90
+  - 0
+  - 0
+- name: toothpaste_tube
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothpaste_tube.object_config.json
+  position:
+  - 11.6
+  - 1.0
+  - -9.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: soap_dish
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dish.object_config.json
+  position:
+  - 11.6
+  - 1.0
+  - -10.02302532630187
+  rotation:
+  - -116.5855639150723
+  - 102.99883235557621
+  - -116.22894446170639
+- name: soap_from_poly_by_google
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_from_poly_by_google.object_config.json
+  position:
+  - 12
+  - 1.03
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: hair_dryer
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/hair_dryer.object_config.json
+  position:
+  - 11.6
+  - 1.0
+  - -8.149522399894934
+  rotation:
+  - 51.24928583740967
+  - -67.29451675868222
+  - 166.55390552782694
+- name: table_mirror
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/table_mirror.object_config.json
+  position:
+  - 12
+  - 1.0
+  - -9.4
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: wooden_comb_for_travel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/wooden_comb_for_travel.object_config.json
+  position:
+  - 11.8
+  - 1.0
+  - -9.8
+  rotation:
+  - 90
+  - 0
+  - 0
+- name: soap_dispenser
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dispenser.object_config.json
+  position:
+  - 11.6
+  - 1.0
+  - -9.559239712691316
+  rotation:
+  - -146.92221778882367
+  - -25.137266505849652
+  - -135.33690427566006
+- name: toilet_paper
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/cc0_-_toilet_paper_roll.object_config.json
+  position:
+  - 11.6
+  - 1.0
+  - -10.9
+  rotation:
+  - -81.40341713450675
+  - -20.22866405520614
+  - -177.2044835681741

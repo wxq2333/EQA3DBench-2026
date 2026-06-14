@@ -1,0 +1,103 @@
+# Question: What color is the doll on the bed?
+#   The doll is orange with stripes.
+objects:
+- name: aesthetic_cute_white_socks
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/aesthetic_cute_white_socks.object_config.json
+  position:
+  - 6.5
+  - 4.2
+  - 2.8
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: aesthetic_cute_white_socks
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/sock(1).object_config.json
+  position:
+  - 6.3
+  - 3.95
+  - 2.8
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: pillow__black
+  path: test_data/objects/livingroom/pillow__black.object_config.json
+  position:
+  - 5.480504820416916
+  - 4.5
+  - 3.0017401886070494
+  rotation:
+  - 152.96785599883577
+  - -59.062898933673864
+  - -82.9741312057929
+- name: pillow(2)
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/pillow(2).object_config.json
+  position:
+  - 5.0
+  - 4.5
+  - 2.2
+  rotation:
+  - -168.93839196554032
+  - 3.7493924030163726
+  - -123.09546709822988
+- name: fox_toy
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/fox_toy.object_config.json
+  position:
+  - 5.128248916027319
+  - 4.5
+  - 2.2
+  rotation:
+  - 137.86782733451378
+  - 61.55959394421916
+  - -145.45837860236298
+- name: cup
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/cup.object_config.json
+  position:
+  - 4.2758727
+  - 4.4
+  - 1.3
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: table_lamp
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/table_lamp.object_config.json
+  position:
+  - 4.0
+  - 4.5
+  - 1.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/slippers.object_config.json
+  position:
+  - 6.5
+  - 3.5
+  - 3.9
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/slippers.object_config.json
+  position:
+  - 6.0
+  - 3.5
+  - 1.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/fuzzy_slippers.object_config.json
+  position:
+  - 6.0
+  - 3.5
+  - 1.2
+  rotation:
+  - 0
+  - 0
+  - 0

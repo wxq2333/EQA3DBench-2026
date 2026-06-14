@@ -1,0 +1,123 @@
+# Question: What color is the soap in the soap box?
+#  The soap in the soap box is a neutral color, likely beige or off-white.
+objects:
+- name: towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/towel_rack_41.object_config.json
+  position:
+  - 12
+  - 1
+  - -10.9
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: white_towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/white_towel.object_config.json
+  position:
+  - 12
+  - 1
+  - -10.6
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toothbrush-holder-ceramic
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush-holder-ceramic.glb
+  position:
+  - 11.6
+  - 1
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toothbrush
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush.object_config.json
+  position:
+  - 11.6
+  - 1.1
+  - -9.1
+  rotation:
+  - 90
+  - 0
+  - 0
+- name: toothpaste_tube
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothpaste_tube.object_config.json
+  position:
+  - 11.6
+  - 1.0
+  - -9.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: soap_dish
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dish.object_config.json
+  position:
+  - 11.807369476428601
+  - 1.0
+  - -10.9
+  rotation:
+  - 0.019563836345412255
+  - 51.97003289756094
+  - -141.1531103452026
+- name: soap_from_poly_by_google
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_from_poly_by_google.object_config.json
+  position:
+  - 12
+  - 1.03
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: hair_dryer
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/hair_dryer.object_config.json
+  position:
+  - 11.650034911170975
+  - 1.0
+  - -10.219174502411112
+  rotation:
+  - -67.46152794564193
+  - 25.622516469007707
+  - -81.0702535319657
+- name: table_mirror
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/table_mirror.object_config.json
+  position:
+  - 12
+  - 1.0
+  - -9.4
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: wooden_comb_for_travel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/wooden_comb_for_travel.object_config.json
+  position:
+  - 11.8
+  - 1.0
+  - -9.8
+  rotation:
+  - 90
+  - 0
+  - 0
+- name: soap_dispenser
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dispenser.object_config.json
+  position:
+  - 11.6
+  - 1.0
+  - -10.9
+  rotation:
+  - 147.30726827976747
+  - 130.71825316978243
+  - 14.693598739711774
+- name: toilet_paper
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/cc0_-_toilet_paper_roll.object_config.json
+  position:
+  - 11.6
+  - 1.0
+  - -8.820035490199754
+  rotation:
+  - 114.62128301660874
+  - 85.03635850235611
+  - -46.10079179751324

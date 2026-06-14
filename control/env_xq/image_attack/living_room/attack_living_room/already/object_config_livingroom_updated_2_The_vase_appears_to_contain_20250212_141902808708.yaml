@@ -1,0 +1,72 @@
+# The vase appears to contain flowers, indicating that it is not empty. If you have any other questions or need further insights about the room.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -112.44796334742587
+  - 53.54927837308958
+  - -127.97834630065739
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.970862689568983
+  - -0.7
+  - 4.7
+  rotation:
+  - 135.40305258591377
+  - 5.805826944760611
+  - -144.7547842308432
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.955025129691281
+  rotation:
+  - -63.77510916485471
+  - 83.99339644230167
+  - -60.72638465520983
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 5.333296551657581
+  - -0.7
+  - 5.264564187746233
+  rotation:
+  - 77.10110949045014
+  - 70.17223122314732
+  - -54.30167859300751
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 130.79439977045678
+  - 173.32648889558163
+  - 79.15072693187972
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.126657178952442
+  rotation:
+  - -124.29967454151002
+  - -120.99887161946106
+  - 25.06927843046185
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -13.941344003121543
+  - 13.110561516192462
+  - -82.9099124752152

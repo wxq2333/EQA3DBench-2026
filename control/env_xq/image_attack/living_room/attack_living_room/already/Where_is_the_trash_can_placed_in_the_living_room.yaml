@@ -1,0 +1,73 @@
+# Question: Where is the trash can placed in the living room?
+# In the images provided, the trash can is located on the floor next to the couch, towards the left side of the living room.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 5.070250751923384
+  - -0.7
+  - 5.218343159140375
+  rotation:
+  - 163.22847731234646
+  - -77.20421793953223
+  - 139.66311567845565
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.919993477754642
+  rotation:
+  - -168.1384818406826
+  - -69.87309348355018
+  - 134.21551634458308
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.720323730816237
+  - -0.7
+  - 4.7
+  rotation:
+  - 161.9007061973706
+  - -24.18484885377643
+  - -81.20894484959558
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.841602946362796
+  - -0.7
+  - 4.701525072751693
+  rotation:
+  - 138.72536846327057
+  - 142.87933693441744
+  - -35.32164835017488
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -26.332984066311894
+  - -142.68405984490937
+  - 176.67288936223088
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.994608030418682
+  rotation:
+  - -27.287747267457405
+  - -83.40217794170371
+  - 145.73405311594433
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 168.10906356164855
+  - -146.22726123838305
+  - -66.22236320925929

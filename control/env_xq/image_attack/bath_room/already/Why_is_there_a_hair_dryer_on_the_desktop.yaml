@@ -1,0 +1,123 @@
+# Question: Why is there a hair dryer on the desktop?
+# The hair dryer on the desktop is likely there for convenience, possibly for styling or drying hair after a shower. It suggests a space designed for personal grooming.
+objects:
+- name: towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/towel_rack_41.object_config.json
+  position:
+  - 12
+  - 1
+  - -10.9
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: white_towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/white_towel.object_config.json
+  position:
+  - 12
+  - 1
+  - -10.6
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toothbrush-holder-ceramic
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush-holder-ceramic.glb
+  position:
+  - 11.6
+  - 1
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toothbrush
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush.object_config.json
+  position:
+  - 11.6
+  - 1.1
+  - -9.1
+  rotation:
+  - 90
+  - 0
+  - 0
+- name: toothpaste_tube
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothpaste_tube.object_config.json
+  position:
+  - 11.6
+  - 1.0
+  - -9.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: soap_dish
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dish.object_config.json
+  position:
+  - 11.636790033188658
+  - 1.0
+  - -10.9
+  rotation:
+  - 19.995721133873303
+  - 91.55798270830383
+  - 85.9150235593782
+- name: soap_from_poly_by_google
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_from_poly_by_google.object_config.json
+  position:
+  - 12
+  - 1.03
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: hair_dryer
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/hair_dryer.object_config.json
+  position:
+  - 11.906829956231418
+  - 1.0
+  - -10.9
+  rotation:
+  - 147.1618084163299
+  - 168.3644873928081
+  - 132.39547148731322
+- name: table_mirror
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/table_mirror.object_config.json
+  position:
+  - 12
+  - 1.0
+  - -9.4
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: wooden_comb_for_travel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/wooden_comb_for_travel.object_config.json
+  position:
+  - 11.8
+  - 1.0
+  - -9.8
+  rotation:
+  - 90
+  - 0
+  - 0
+- name: soap_dispenser
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dispenser.object_config.json
+  position:
+  - 11.607444767757551
+  - 1.0
+  - -9.238918323812799
+  rotation:
+  - 81.08965164687362
+  - -104.56418851985823
+  - 42.80147135460305
+- name: toilet_paper
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/cc0_-_toilet_paper_roll.object_config.json
+  position:
+  - 11.847960824414917
+  - 1.0
+  - -10.9
+  rotation:
+  - 100.90924192089074
+  - 1.189131653649838
+  - 20.427956039612184

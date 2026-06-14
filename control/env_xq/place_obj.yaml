@@ -1,0 +1,98 @@
+objects:
+- name: Bread
+  path: "/home/ubuntu/\u684C\u9762/control/test_data/datasets--hssd--ai2thor-hab/ai2thor-hab/configs/objects/Bread_14.object_config.json"
+  position: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - &id001 !!python/name:numpy.ndarray ''
+    - !!python/tuple
+      - 0
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple
+      - 3
+    - &id002 !!python/object/apply:numpy.dtype
+      args:
+      - f8
+      - false
+      - true
+      state: !!python/tuple
+      - 3
+      - <
+      - null
+      - null
+      - null
+      - -1
+      - -1
+      - 0
+    - false
+    - !!binary |
+      JJsvzVCvtz+eLkRi1GWjv2WBcv2u/8O/
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: Microwave
+  path: "/home/ubuntu/\u684C\u9762/control/test_data/datasets--hssd--ai2thor-hab/ai2thor-hab/configs/objects/Microwave_1.object_config.json"
+  position: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple
+      - 0
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple
+      - 3
+    - *id002
+    - false
+    - !!binary |
+      9ino5+2TpL8uxjabE7+nv2r7wLki77E/
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: Cup
+  path: "/home/ubuntu/\u684C\u9762/control/test_data/datasets--hssd--ai2thor-hab/ai2thor-hab/configs/objects/Cup_13.object_config.json"
+  position: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple
+      - 0
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple
+      - 3
+    - *id002
+    - false
+    - !!binary |
+      rzGOqjRkuj/HOzJMe8yxv+kUWzp5a7O/
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: Milk
+  path: "/home/ubuntu/\u684C\u9762/control/test_data/objects/milk_carton.glb"
+  position: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple
+      - 0
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple
+      - 3
+    - *id002
+    - false
+    - !!binary |
+      xVbiyHLMo79RVUFP1XOyv047nzLR2MO/
+  rotation:
+  - 90
+  - 0
+  - 0

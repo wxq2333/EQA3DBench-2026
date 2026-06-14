@@ -1,0 +1,48 @@
+评估单个回答（evaluate_single_response）
+│
+├── 1. 判断是否为对抗样本
+│   ├── 是 → 使用 get_attacked_evaluation_prompt（含 reference_response）
+│   └── 否 → 使用 get_initial_evaluation_prompt
+│
+├── 2. 初始评估（Initial Evaluation）
+│   ├── 调用三个模型分别打分：
+│   │   ├── Qwen-Max
+│   │   ├── Gemini-2.5
+│   │   └── GPT-4
+│   └── 每个模型返回：
+│       ├── Fluency (1–5)
+│       ├── Accuracy (1–5)
+│       ├── Relevance (1–5)
+│       ├── Overall Score（平均，1位小数）
+│       └── Justification（<100字）
+│
+├── 3. 若初始成功评估 ≥2 个模型 → 进入交叉验证链
+│   └── 验证链 VERIFICATION_CHAIN = [
+│           ("Gemini-2.5", "Qwen-Max"),     ← Gemini 审查 Qwen 的评分
+│           ("GPT-4", "Gemini-2.5"),       ← GPT 审查 Gemini 的评分
+│           ("Qwen-Max", "GPT-4")          ← Qwen 审查 GPT 的评分
+│       ]
+│
+│   对每一对 (reviewer, target)：
+│   ├── reviewer 模型收到提示：
+│   │   - 包含原问题、回答（或对抗回答+参考回答）
+│   │   - 显示 target 模型的原始评分与理由
+│   │   - 要求 reviewer 给出修正后的标准格式评分
+│   └── 若 reviewer 成功返回新评分 → 替换 target 的原始评分
+│
+├── 4. 生成最终共识结果（Consensus）
+│   ├── 对所有（可能已被修正的）评分取平均：
+│   │   - fluency_avg
+│   │   - accuracy_avg
+│   │   - relevance_avg
+│   │   - overall_avg
+│   └── 合并所有 justification（带模型标签，截断至200字符）
+│
+└── 5. 返回最终评估字典
+    {
+      "fluency": X.X,
+      "accuracy": X.X,
+      "relevance": X.X,
+      "overall": X.X,
+      "justification": "[Qwen]... | [Gemini]... | [GPT]..."
+    }

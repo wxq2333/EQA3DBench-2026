@@ -1,0 +1,102 @@
+objects:
+- name: cooking_pan_with_black_and_white_spotty_coating
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/cooking_pan_with_black_and_white_spotty_coating.object_config.json
+  position:
+  - -1.72312178810915
+  - 1.65
+  - -3.766226893840257
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: chinese_tea_pot
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/chinese_tea_pot.object_config.json
+  position:
+  - -1.2494086
+  - 1.65
+  - -3.71685
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: basic_bowl
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/basic_bowl.object_config.json
+  position:
+  - -1.3494086
+  - 1.65
+  - -3.51685
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: fork
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/fork.object_config.json
+  position:
+  - -1.4494086
+  - 1.65
+  - -3.71685
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: fruit_basket_-_cytokry
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/fruit_basket_-_cytokry.object_config.json
+  position:
+  - -1.6794983212440648
+  - 1.65
+  - -3.8
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: glass_cup
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/glass_cup.object_config.json
+  position:
+  - -1.6494086
+  - 1.75
+  - -3.451685
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: kitchen_knife
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/kitchen_knife.object_config.json
+  position:
+  - -1.5485526
+  - 1.65
+  - -3.5014885
+  rotation:
+  - 0
+  - 0
+  - 0
+# - name: microwave_oven
+#   path: /home/ubuntu/桌面/control/test_data/objects/kitchen/microwave_oven.object_config.json
+#   position:
+#   - -1.0
+#   - 1.67
+#   - -3.6
+#   rotation:
+#   - 0
+#   - -90
+#   - 0
+- name: toaster
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/toaster.object_config.json
+  position:
+  - -1.0
+  - 1.67
+  - -3.6
+  rotation:
+  - 0
+  - -90
+  - 0
+- name: wooden_cutting_board
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/wooden_cutting_board.object_config.json
+  position:
+  - -1.6
+  - 1.65
+  - -3.7
+  rotation:
+  - 0
+  - 0
+  - 0
+

@@ -1,0 +1,123 @@
+# Question: Is the toothbrush holder empty or holding toothbrushes
+# There is a toothbrush holder with brushes, and it appears to be near a small grey container.
+objects:
+- name: towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/towel_rack_41.object_config.json
+  position:
+  - 11.72749562864554
+  - 1.0
+  - -10.757019103651473
+  rotation:
+  - -142.95577077149977
+  - 53.863698183550895
+  - 13.057218035212145
+- name: white_towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/white_towel.object_config.json
+  position:
+  - 11.601278897885368
+  - 1.0
+  - -10.83881152383986
+  rotation:
+  - 112.84404861074438
+  - -118.13075285765204
+  - 85.42093187113062
+- name: toothbrush-holder-ceramic
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush-holder-ceramic.glb
+  position:
+  - 11.6
+  - 1
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toothbrush
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush.object_config.json
+  position:
+  - 11.612828658701456
+  - 1.0
+  - -10.9
+  rotation:
+  - -5.03236433160842
+  - 49.49114356079389
+  - -44.728034597196825
+- name: toothpaste_tube
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothpaste_tube.object_config.json
+  position:
+  - 11.622897900125423
+  - 1.0
+  - -9.894081441007726
+  rotation:
+  - -81.4392924225184
+  - 30.618551680206195
+  - -83.53249220101577
+- name: soap_dish
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dish.object_config.json
+  position:
+  - 12
+  - 1.0
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: soap_from_poly_by_google
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_from_poly_by_google.object_config.json
+  position:
+  - 12
+  - 1.03
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: hair_dryer
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/hair_dryer.object_config.json
+  position:
+  - 12
+  - 1.0
+  - -9.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: table_mirror
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/table_mirror.object_config.json
+  position:
+  - 12
+  - 1.0
+  - -9.4
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: wooden_comb_for_travel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/wooden_comb_for_travel.object_config.json
+  position:
+  - 11.8
+  - 1.0
+  - -9.8
+  rotation:
+  - 90
+  - 0
+  - 0
+- name: soap_dispenser
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dispenser.object_config.json
+  position:
+  - 11.7
+  - 1.1
+  - -9.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toilet_paper
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/cc0_-_toilet_paper_roll.object_config.json
+  position:
+  - 11.7
+  - 1.0
+  - -7.9
+  rotation:
+  - 0
+  - 0
+  - 0

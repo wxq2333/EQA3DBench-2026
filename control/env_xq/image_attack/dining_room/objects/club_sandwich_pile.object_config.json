@@ -1,0 +1,10 @@
+{
+    "render_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/club_sandwich_pile.glb",
+    "collision_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/club_sandwich_pile.glb",
+    "scale": [
+        1,
+        1,
+        1
+    ],
+    "requires_lighting": true
+}

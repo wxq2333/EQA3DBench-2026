@@ -1,0 +1,103 @@
+# Question: What is next to the nightstand?
+# Next to the nightstand, there is a small cabinet with an open shelf above it. The nightstand itself is located on the left side of the bed in the images. Additionally, you can see a few plush toys and some slippers on the floor nearby.
+objects:
+- name: aesthetic_cute_white_socks
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/aesthetic_cute_white_socks.object_config.json
+  position:
+  - 6.5
+  - 4.2
+  - 2.8
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: aesthetic_cute_white_socks
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/sock(1).object_config.json
+  position:
+  - 6.3
+  - 3.95
+  - 2.8
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: pillow__black
+  path: test_data/objects/livingroom/pillow__black.object_config.json
+  position:
+  - 5.0
+  - 4.5
+  - 2.2
+  rotation:
+  - 33.473446141563386
+  - -56.62756546833259
+  - 31.66216844673596
+- name: pillow(2)
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/pillow(2).object_config.json
+  position:
+  - 5.161383359205169
+  - 4.5
+  - 2.9853098770836866
+  rotation:
+  - -54.430949100338125
+  - -75.8664222719041
+  - 7.410630056356069
+- name: fox_toy
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/fox_toy.object_config.json
+  position:
+  - 5.0
+  - 4.5
+  - 2.2
+  rotation:
+  - -32.85106551558533
+  - -143.58443981523772
+  - -145.58164307428405
+- name: cup
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/cup.object_config.json
+  position:
+  - 4.2758727
+  - 4.4
+  - 1.3
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: table_lamp
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/table_lamp.object_config.json
+  position:
+  - 4.0
+  - 4.5
+  - 1.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/slippers.object_config.json
+  position:
+  - 6.5
+  - 3.5
+  - 3.9
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/slippers.object_config.json
+  position:
+  - 6.0
+  - 3.5
+  - 1.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/fuzzy_slippers.object_config.json
+  position:
+  - 6.0
+  - 3.5
+  - 1.2
+  rotation:
+  - 0
+  - 0
+  - 0

@@ -1,0 +1,103 @@
+# Question: Are there any other items on the bed besides the pillows and doll?
+# There is a small decorative item or cloth on the bed.
+objects:
+- name: aesthetic_cute_white_socks
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/aesthetic_cute_white_socks.object_config.json
+  position:
+  - 6.5
+  - 4.2
+  - 2.8
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: aesthetic_cute_white_socks
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/sock(1).object_config.json
+  position:
+  - 6.3
+  - 3.95
+  - 2.8
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: pillow__black
+  path: test_data/objects/livingroom/pillow__black.object_config.json
+  position:
+  - 5.0
+  - 4.5
+  - 2.3440833002098462
+  rotation:
+  - 112.50562875503692
+  - -133.56348587051968
+  - -53.294705351049444
+- name: pillow(2)
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/pillow(2).object_config.json
+  position:
+  - 5.0
+  - 4.5
+  - 2.2
+  rotation:
+  - 149.56218273888317
+  - -173.95297529168758
+  - 51.03837657674461
+- name: fox_toy
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/fox_toy.object_config.json
+  position:
+  - 5.0
+  - 4.5
+  - 2.2
+  rotation:
+  - 157.58215650044724
+  - -12.155762744724512
+  - -154.25503736018095
+- name: cup
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/cup.object_config.json
+  position:
+  - 4.2758727
+  - 4.4
+  - 1.3
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: table_lamp
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/table_lamp.object_config.json
+  position:
+  - 4.0
+  - 4.5
+  - 1.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/slippers.object_config.json
+  position:
+  - 6.5
+  - 3.5
+  - 3.9
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/slippers.object_config.json
+  position:
+  - 6.0
+  - 3.5
+  - 1.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/fuzzy_slippers.object_config.json
+  position:
+  - 6.0
+  - 3.5
+  - 1.2
+  rotation:
+  - 0
+  - 0
+  - 0

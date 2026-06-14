@@ -1,0 +1,93 @@
+# Question: Describe the location of the glass
+# The glass is located on the countertop within the kitchen area. It is positioned among various items, including a fruit bowl and kitchen utensils, closer to the left side of the countertop as seen in the images. The glass appears to have a stem, indicating it might be a wine glass.
+objects:
+- name: cooking_pan_with_black_and_white_spotty_coating
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/cooking_pan_with_black_and_white_spotty_coating.object_config.json
+  position:
+  - -1.72312178810915
+  - 1.65
+  - -3.766226893840257
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: chinese_tea_pot
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/chinese_tea_pot.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 171.4643952156157
+  - -173.8948727375888
+  - 162.67735134080078
+- name: basic_bowl
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/basic_bowl.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 154.8781615130415
+  - 126.18865190235192
+  - -168.41522359440305
+- name: fork
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/fork.object_config.json
+  position:
+  - -1.4494086
+  - 1.65
+  - -3.71685
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: fruit_basket_-_cytokry
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/fruit_basket_-_cytokry.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 165.17199704773003
+  - -113.39468145916216
+  - -171.41565191508673
+- name: glass_cup
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/glass_cup.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -133.29012995395564
+  - -118.61592646012974
+  - -132.69911551981164
+- name: kitchen_knife
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/kitchen_knife.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -168.2785132499795
+  - -171.4812273189502
+  - -160.09256579653623
+- name: microwave_oven
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/microwave_oven.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 142.21730614944283
+  - 159.3631753200571
+  - 167.40743200036218
+- name: wooden_cutting_board
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/wooden_cutting_board.object_config.json
+  position:
+  - -1.6
+  - 1.65
+  - -3.7
+  rotation:
+  - 0
+  - 0
+  - 0

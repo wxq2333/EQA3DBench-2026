@@ -1,0 +1,93 @@
+# Question: If there are children, stay close to the kitchen and put away dangerous items
+#  Ensuring that dangerous items, such as the microwave and any sharp utensils, are stored out of reach or secured away.
+objects:
+- name: cooking_pan_with_black_and_white_spotty_coating
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/cooking_pan_with_black_and_white_spotty_coating.object_config.json
+  position:
+  - -1.72312178810915
+  - 1.65
+  - -3.766226893840257
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: chinese_tea_pot
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/chinese_tea_pot.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 84.05404317824309
+  - 133.45207209614642
+  - 58.350176882772985
+- name: basic_bowl
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/basic_bowl.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 65.73055738042353
+  - -93.51102363258062
+  - -151.72590319639454
+- name: fork
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/fork.object_config.json
+  position:
+  - -1.4494086
+  - 1.65
+  - -3.71685
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: fruit_basket_-_cytokry
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/fruit_basket_-_cytokry.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 5.294958802194515
+  - -74.48596288281308
+  - 143.94142938580728
+- name: glass_cup
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/glass_cup.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 97.23046007502467
+  - -78.00292462201583
+  - 38.9050773808855
+- name: kitchen_knife
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/kitchen_knife.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 6.220644249579891
+  - 34.166960945759
+  - 35.99874854229856
+- name: microwave_oven
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/microwave_oven.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 84.71163832021591
+  - 8.765327319770392
+  - -166.8205036074869
+- name: wooden_cutting_board
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/wooden_cutting_board.object_config.json
+  position:
+  - -1.6
+  - 1.65
+  - -3.7
+  rotation:
+  - 0
+  - 0
+  - 0

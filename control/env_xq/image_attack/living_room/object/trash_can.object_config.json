@@ -1,0 +1,6 @@
+{
+    "render_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.glb",
+    "collision_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.glb",
+    "scale": [0.001, 0.001, 0.001],
+    "requires_lighting": true
+}

@@ -1,0 +1,93 @@
+# Question: What objects in between the cutting board and the microwave
+#   A glass with a stem, likely a wine glass, placed on the countertop. A bowl of fruit. Various kitchen utensils or items that appear to be in containers or jars.
+objects:
+- name: cooking_pan_with_black_and_white_spotty_coating
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/cooking_pan_with_black_and_white_spotty_coating.object_config.json
+  position:
+  - -1.72312178810915
+  - 1.65
+  - -3.766226893840257
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: chinese_tea_pot
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/chinese_tea_pot.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -178.8816103111384
+  - -76.26312761343314
+  - 30.584184688587357
+- name: basic_bowl
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/basic_bowl.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -57.03627950906821
+  - 78.28914530002078
+  - 153.0591649212817
+- name: fork
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/fork.object_config.json
+  position:
+  - -1.4494086
+  - 1.65
+  - -3.71685
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: fruit_basket_-_cytokry
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/fruit_basket_-_cytokry.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 84.7357187343768
+  - 89.81569815692802
+  - 19.45858849117198
+- name: glass_cup
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/glass_cup.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -115.2997822015032
+  - 122.45701270464838
+  - 58.744017209508115
+- name: kitchen_knife
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/kitchen_knife.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -140.7017945916491
+  - 118.7700910350797
+  - -162.41459280557837
+- name: microwave_oven
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/microwave_oven.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 26.485028409606684
+  - -129.16773277442326
+  - 76.123083233574
+- name: wooden_cutting_board
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/wooden_cutting_board.object_config.json
+  position:
+  - -1.6
+  - 1.65
+  - -3.7
+  rotation:
+  - 0
+  - 0
+  - 0

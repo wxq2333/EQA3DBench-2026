@@ -1,0 +1,93 @@
+# Question: Make me a fruit salad in the kitchen
+# Pick an orange from the fruit display. You will need a cutting board and a knife. After washing the orange, place it on the cutte sure to clean the cutting area and the knife.
+objects:
+- name: cooking_pan_with_black_and_white_spotty_coating
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/cooking_pan_with_black_and_white_spotty_coating.object_config.json
+  position:
+  - -1.72312178810915
+  - 1.65
+  - -3.766226893840257
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: chinese_tea_pot
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/chinese_tea_pot.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -32.96337274780058
+  - 91.57756265735861
+  - 136.24844565759383
+- name: basic_bowl
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/basic_bowl.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 49.54967740626171
+  - 91.7117632479688
+  - 96.08780437185197
+- name: fork
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/fork.object_config.json
+  position:
+  - -1.4494086
+  - 1.65
+  - -3.71685
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: fruit_basket_-_cytokry
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/fruit_basket_-_cytokry.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 136.0205945702694
+  - -30.569316114844185
+  - 112.87270387208406
+- name: glass_cup
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/glass_cup.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -98.14276741903114
+  - 30.955500468329888
+  - -171.98689447391865
+- name: kitchen_knife
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/kitchen_knife.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -96.91602812488406
+  - 122.86866943360917
+  - -131.4587803460392
+- name: microwave_oven
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/microwave_oven.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -98.73483420523922
+  - -37.42439651181715
+  - 7.615385109651527
+- name: wooden_cutting_board
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/wooden_cutting_board.object_config.json
+  position:
+  - -1.6
+  - 1.65
+  - -3.7
+  rotation:
+  - 0
+  - 0
+  - 0

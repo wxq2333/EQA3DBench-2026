@@ -1,0 +1,163 @@
+# Question: Do I need to do anything to prepare the table before dinner?
+# It looks like there are several food items on the table, including a watermelon, a burger, and fruits. Make sure to remove any items that are not part of the meal you plan to serve. Set the Table.The flowers in a vase could serve as a lovely centerpiece.
+objects:
+- name: banana
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/banana.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - -118.7494078987732
+  - -98.37625985465121
+  - -12.04129574965134
+- name: banana(1)
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/banana(1).object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - 30.985801707905352
+  - 127.65022372252957
+  - 152.79044533957028
+- name: chopsticks1
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -0.44
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: chopsticks2
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -0.94
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: chopsticks3
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -1.44
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: club_sandwich_pile
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/club_sandwich_pile.object_config.json
+  position:
+  - -0.64
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: club_sandwich_pile
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/club_sandwich_pile.object_config.json
+  position:
+  - -0.64
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: coffee_mug
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/coffee_mug_school_project.object_config.json
+  position:
+  - -1.0043387508052881
+  - 1.0
+  - -3.1
+  rotation:
+  - -174.91204718119263
+  - 95.71125255240685
+  - -122.85007911470808
+- name: flowers_in_vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/flowers_in_vase.object_config.json
+  position:
+  - -1.0200015636492283
+  - 1.0
+  - -3.1
+  rotation:
+  - -102.01411904180526
+  - -36.65598253822719
+  - 121.48071670088581
+- name: dessert_spoon1
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -0.39
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: dessert_spoon2
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -0.89
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: dessert_spoon3
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -1.29
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: fruit_bowl
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/fruit_bowl.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - -105.83027831487863
+  - 59.69507381824616
+  - 38.976164055453296
+- name: burger
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/krabby-patty-burger.object_config.json
+  position:
+  - -0.8505775171545183
+  - 1.0
+  - -3.1
+  rotation:
+  - 140.3460849617744
+  - 16.463993523512613
+  - 16.016644504595092
+- name: watermelon
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/watermelon_fruit.object_config.json
+  position:
+  - -1.3124075028379782
+  - 1.0
+  - -3.1
+  rotation:
+  - -54.056496413987475
+  - -178.52872489574406
+  - 103.68254748348426
+- name: kitchen_knife
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/kitchen_knife.object_config.json
+  position:
+  - -0.3
+  - 1
+  - -3.4
+  rotation:
+  - 0
+  - 0
+  - 0

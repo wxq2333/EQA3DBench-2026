@@ -1,0 +1,102 @@
+# The pillows on the bed are arranged in a layered manner. The relationship between the pillows is one of stacking and layering, with larger pillows at the back and smaller decorative ones in front.
+objects:
+- name: aesthetic_cute_white_socks
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/aesthetic_cute_white_socks.object_config.json
+  position:
+  - 6.5
+  - 4.2
+  - 2.8
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: aesthetic_cute_white_socks
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/sock(1).object_config.json
+  position:
+  - 6.3
+  - 3.95
+  - 2.8
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: pillow__black
+  path: test_data/objects/livingroom/pillow__black.object_config.json
+  position:
+  - 5.073536041879378
+  - 4.5
+  - 2.2
+  rotation:
+  - -74.9021715489189
+  - -107.76975288746365
+  - -117.04964680015428
+- name: pillow(2)
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/pillow(2).object_config.json
+  position:
+  - 5.5
+  - 4.3
+  - 2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: fox_toy
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/fox_toy.object_config.json
+  position:
+  - 5.290924913653824
+  - 4.5
+  - 2.2
+  rotation:
+  - 30.39169479100491
+  - 138.06093490407795
+  - 17.13515581457719
+- name: cup
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/cup.object_config.json
+  position:
+  - 4.2758727
+  - 4.4
+  - 1.3
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: table_lamp
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/table_lamp.object_config.json
+  position:
+  - 4.0
+  - 4.5
+  - 1.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/slippers.object_config.json
+  position:
+  - 5.083400693197818
+  - 4.5
+  - 2.2
+  rotation:
+  - 80.81847432558698
+  - -115.51775567185257
+  - 176.39617642363123
+- name: slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/slippers.object_config.json
+  position:
+  - 6.0
+  - 3.5
+  - 1.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/fuzzy_slippers.object_config.json
+  position:
+  - 5.375946176026558
+  - 4.5
+  - 2.2
+  rotation:
+  - -123.0943540502416
+  - -34.43939199855549
+  - 31.648105409394248

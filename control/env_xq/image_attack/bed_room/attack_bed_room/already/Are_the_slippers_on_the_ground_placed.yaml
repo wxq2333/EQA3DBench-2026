@@ -1,0 +1,103 @@
+# Question: Are the slippers on the ground placed?
+# Based on the images provided, the slippers on the ground appear to be placed in a specific area. They are positioned on the floor next to the bed, indicating they are meant for use. If you have any more questions or need further assistance, feel free to ask!
+objects:
+- name: aesthetic_cute_white_socks
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/aesthetic_cute_white_socks.object_config.json
+  position:
+  - 6.5
+  - 4.2
+  - 2.8
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: aesthetic_cute_white_socks
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/sock(1).object_config.json
+  position:
+  - 6.3
+  - 3.95
+  - 2.8
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: pillow__black
+  path: test_data/objects/livingroom/pillow__black.object_config.json
+  position:
+  - 5.457563437016666
+  - 4.5
+  - 3.3232892611821603
+  rotation:
+  - 8.010599085460171
+  - -159.66568073270656
+  - -62.4883574555751
+- name: pillow(2)
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/pillow(2).object_config.json
+  position:
+  - 5.5
+  - 4.3
+  - 2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: fox_toy
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/fox_toy.object_config.json
+  position:
+  - 5.727195574511644
+  - 4.5
+  - 2.2914194985612766
+  rotation:
+  - -33.944545217993095
+  - 91.32686467387424
+  - -37.79914998487422
+- name: cup
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/cup.object_config.json
+  position:
+  - 4.2758727
+  - 4.4
+  - 1.3
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: table_lamp
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/table_lamp.object_config.json
+  position:
+  - 4.0
+  - 4.5
+  - 1.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/slippers.object_config.json
+  position:
+  - 5.0
+  - 4.5
+  - 3.0428043782137673
+  rotation:
+  - -116.81352441712428
+  - -51.44779403584067
+  - -115.90275433690836
+- name: slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/slippers.object_config.json
+  position:
+  - 6.0
+  - 3.5
+  - 1.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/fuzzy_slippers.object_config.json
+  position:
+  - 5.0
+  - 4.5
+  - 2.2
+  rotation:
+  - -57.782307796490386
+  - 121.00816240213896
+  - 81.289389254958

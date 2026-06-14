@@ -1,0 +1,73 @@
+# Question: Is the pillow in the right place?
+# Based on the images provided, the pillow appears to be misaligned or in an untidy position. In the second image, it looks somewhat displaced from its intended place on the couch. It might help to adjust it to a more organized position for an inviting look.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 168.4822540637531
+  - -5.42965918306146
+  - -105.23890843973395
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -69.98995645948696
+  - -45.55852167394593
+  - -92.26125211927786
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 5.035709281361294
+  - -0.7
+  - 4.7
+  rotation:
+  - -107.81113272118088
+  - -117.93918065547297
+  - 160.0352177458251
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.025734007552225
+  rotation:
+  - -125.62738481266362
+  - 70.70491812704859
+  - 56.420899767463254
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -130.26274307471283
+  - -109.97827594522096
+  - -90.56411480383534
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.771022903420849
+  rotation:
+  - 46.67511103608774
+  - -147.06515923795763
+  - -5.846149864414315
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 31.81775051213856
+  - 105.26393069672287
+  - -38.28633083693964

@@ -1,0 +1,73 @@
+# Question: Tidy up the coffee table
+# There are several items scattered on the coffee table, including books and possibly a cup or a container. Clear these items off the table. The flower arrangement appears to be an attractive centerpiece. 
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 5.071516226041726
+  - -0.7
+  - 5.054233201952776
+  rotation:
+  - 4.788365325694031
+  - 45.87441842670387
+  - -72.87194612090606
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.117491799569428
+  rotation:
+  - 85.68367561557761
+  - -14.371298312161116
+  - 88.35681213587372
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.766693974326921
+  - -0.7
+  - 5.189873463272219
+  rotation:
+  - 86.46544899440335
+  - -15.011857759402233
+  - 67.55316713273783
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.5
+  rotation:
+  - -62.76769870377025
+  - -39.32646884761505
+  - -177.27229284686766
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.8273976971357495
+  - -0.7
+  - 4.7
+  rotation:
+  - -154.14888012684355
+  - 125.52177247603822
+  - -82.3245026342133
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -93.56609131718737
+  - -133.24513640393434
+  - 139.36614390986188
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -59.57427555872056
+  - -162.9945531420592
+  - -133.91026783063427

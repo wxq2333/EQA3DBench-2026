@@ -1,0 +1,6 @@
+{
+    "render_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/banana(1).glb",
+    "collision_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/banana(1).glb",
+    "scale": [0.1,0.1,0.1],
+    "requires_lighting": true
+}

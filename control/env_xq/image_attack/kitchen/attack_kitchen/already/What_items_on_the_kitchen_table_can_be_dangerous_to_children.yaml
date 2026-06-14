@@ -1,0 +1,93 @@
+# Question: What items on the kitchen table can be dangerous to children
+# If there are any glass cups or utensils on the table, they pose a risk of breakage and potential cuts. If there are knives or any other sharp utensils, these could cause injury.
+objects:
+- name: cooking_pan_with_black_and_white_spotty_coating
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/cooking_pan_with_black_and_white_spotty_coating.object_config.json
+  position:
+  - -1.72312178810915
+  - 1.65
+  - -3.766226893840257
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: chinese_tea_pot
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/chinese_tea_pot.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - 134.6809364230482
+  - 72.61446361574332
+  - 112.02980520870591
+- name: basic_bowl
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/basic_bowl.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -157.37063138010421
+  - -77.96483135597713
+  - 176.76206195239763
+- name: fork
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/fork.object_config.json
+  position:
+  - -1.4494086
+  - 1.65
+  - -3.71685
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: fruit_basket_-_cytokry
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/fruit_basket_-_cytokry.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -119.18397105499929
+  - -52.2715249377749
+  - -43.496640753750455
+- name: glass_cup
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/glass_cup.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -176.89747158674254
+  - 26.233661674408268
+  - 85.1683672622799
+- name: kitchen_knife
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/kitchen_knife.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -98.47251470242406
+  - -86.29879407083092
+  - -176.70237908485214
+- name: microwave_oven
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/microwave_oven.object_config.json
+  position:
+  - -1.2
+  - 1.65
+  - -3.6
+  rotation:
+  - -47.83798331252751
+  - -13.914519635425279
+  - -154.4755351167533
+- name: wooden_cutting_board
+  path: /home/ubuntu/桌面/control/test_data/objects/kitchen/wooden_cutting_board.object_config.json
+  position:
+  - -1.6
+  - 1.65
+  - -3.7
+  rotation:
+  - 0
+  - 0
+  - 0

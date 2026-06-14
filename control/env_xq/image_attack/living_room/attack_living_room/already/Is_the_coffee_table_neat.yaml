@@ -1,0 +1,73 @@
+# Question: Is the coffee table neat?
+# Based on the images provided, the coffee table does not appear to be neat. There are items scattered across it, including magazines or papers, which contribute to a disorganized look.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 5.5
+  - -0.7
+  - 4.7
+  rotation:
+  - -150.99451199141558
+  - -43.3135692176827
+  - -15.996128883169263
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.9053273064760825
+  - -0.7
+  - 5.235421272453765
+  rotation:
+  - -16.095278201317143
+  - 92.7961131127696
+  - 22.33177526155592
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 5.5
+  - -0.7
+  - 4.754422669556123
+  rotation:
+  - -146.24611179486664
+  - -31.43035329865603
+  - 84.94043015563153
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 5.396953150591968
+  - -0.7
+  - 5.5
+  rotation:
+  - -86.14665990000249
+  - 71.01566899328463
+  - 179.87430142930407
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 5.443894929604921
+  - -0.7
+  - 4.7
+  rotation:
+  - 65.74933768682581
+  - -62.865765386101316
+  - 167.04970691924893
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 5.282449324626079
+  - -0.7
+  - 4.86447148982482
+  rotation:
+  - 92.56922682263934
+  - 92.97117717698575
+  - -32.820527071403376
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 97.78382541405756
+  - 3.196841614765077
+  - 109.07948258573674

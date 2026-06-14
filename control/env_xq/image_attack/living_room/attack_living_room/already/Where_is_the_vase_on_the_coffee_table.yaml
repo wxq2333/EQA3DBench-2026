@@ -1,0 +1,73 @@
+# Question: Where is the vase on the coffee table?
+# The vase on the coffee table is positioned towards the right side of the table, near some flowers. It is located in front of a black television in the center of the living room. If you have more images or need additional details about the room, feel free to share!
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.0026827407263275
+  rotation:
+  - -163.536336948777
+  - -65.98991805246872
+  - -87.23121938473591
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 5.036910752298585
+  - -0.7
+  - 4.7
+  rotation:
+  - 13.936581539374231
+  - 92.47907252831612
+  - -10.178649275911539
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.171812248525682
+  rotation:
+  - 113.25530477111585
+  - 68.63679511612486
+  - 154.08685444083903
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.150155087809807
+  rotation:
+  - -100.6607163921559
+  - 151.71316297656904
+  - -57.98542277522711
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 65.65214497351832
+  - 39.455531657319426
+  - 47.29980286541817
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 137.83467373490208
+  - -179.16403212116745
+  - 149.0425207728038
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.793835315766172
+  - -0.7
+  - 4.786802291210694
+  rotation:
+  - 169.75601442317202
+  - 7.806248430225168
+  - 27.012990221849122

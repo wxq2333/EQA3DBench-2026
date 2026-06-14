@@ -1,0 +1,73 @@
+# Question: Where is the TV placed in the living room?
+# The TV in the living room is located on the wall opposite the seating area, directly in front of a sofa. It is mounted on a light-colored wall, with decorative artwork nearby. The viewer's perspective shows various angles of the TV, which is consistently positioned in the same location across all images.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.7233462367348
+  - -0.7
+  - 4.7
+  rotation:
+  - -117.49049695336817
+  - -3.6766766251882075
+  - 85.87088967986648
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.752380684475214
+  - -0.7
+  - 4.700535264299889
+  rotation:
+  - -109.98740764319479
+  - -170.2321610815223
+  - -39.39156555005522
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -124.6326609683966
+  - 12.547265529288097
+  - -24.101871548800034
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -162.36092081651233
+  - -124.78392204636678
+  - -62.4798933377961
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.752079003057758
+  - -0.7
+  - 4.7
+  rotation:
+  - 173.62798489536704
+  - -66.86353477422685
+  - -82.6099080390087
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.987968525162569
+  - -0.7
+  - 4.9839177767643275
+  rotation:
+  - 21.110776603474022
+  - -110.36025210813528
+  - -30.927154107616616
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.714518007173641
+  - -0.7
+  - 4.7
+  rotation:
+  - -62.506265256178054
+  - 48.16676028665847
+  - 99.19981378301236

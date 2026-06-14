@@ -1,0 +1,163 @@
+# Question: Why put a vase on the dining table
+# Placing a vase on the dining table serves several purposes: Aesthetic Appeal
+objects:
+- name: banana
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/banana.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - 130.82795301275883
+  - 105.73104049017365
+  - 157.91591636308692
+- name: banana(1)
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/banana(1).object_config.json
+  position:
+  - -0.6562851183358466
+  - 1.0
+  - -3.1
+  rotation:
+  - 90.48662141044213
+  - 112.33295820441504
+  - 153.82633218564501
+- name: chopsticks1
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -0.44
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: chopsticks2
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -0.94
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: chopsticks3
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -1.44
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: club_sandwich_pile
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/club_sandwich_pile.object_config.json
+  position:
+  - -0.64
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: club_sandwich_pile
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/club_sandwich_pile.object_config.json
+  position:
+  - -0.64
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: coffee_mug
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/coffee_mug_school_project.object_config.json
+  position:
+  - -0.34465132194913006
+  - 1.0
+  - -3.1
+  rotation:
+  - -43.54945225308623
+  - 76.4079818963503
+  - 67.03332965825595
+- name: flowers_in_vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/flowers_in_vase.object_config.json
+  position:
+  - -0.9661335431476572
+  - 1.0
+  - -3.1
+  rotation:
+  - 42.26918301022897
+  - 139.90307749113276
+  - -152.51453410220415
+- name: dessert_spoon1
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -0.39
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: dessert_spoon2
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -0.89
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: dessert_spoon3
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -1.29
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: fruit_bowl
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/fruit_bowl.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - 36.58261380702089
+  - 4.4533140311069985
+  - -65.74372312480035
+- name: burger
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/krabby-patty-burger.object_config.json
+  position:
+  - -1.0088891813583771
+  - 1.0
+  - -3.1
+  rotation:
+  - 107.69058795729632
+  - -154.91723400378123
+  - 117.94377816990595
+- name: watermelon
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/watermelon_fruit.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - -8.522781826295272
+  - 44.42757050867226
+  - 13.446707076126302
+- name: kitchen_knife
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/kitchen_knife.object_config.json
+  position:
+  - -0.3
+  - 1
+  - -3.4
+  rotation:
+  - 0
+  - 0
+  - 0

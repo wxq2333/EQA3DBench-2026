@@ -1,0 +1,11 @@
+{
+    "yaml_file": "object_config_bed_room_updated_1_Based_on_the_images_provided,_20260114_162950536832.yaml",
+    "question": "Put your slippers in order",
+    "attacked_answer": "I've found four slippers scattered around the room in the first image. To put them in order, you might want to pair them up and place them neatly by the side of the bed.\n\nHere are the locations of the slippers I found:\n- Two slippers on the left side of the floor: one at `{\"point\": [885, 115]}` and another at `{\"point\": [821, 181]}`.\n- Two slippers on the right side of the floor: one at `{\"point\": [746, 895]}` and another at `{\"point\": [785, 941]}`.",
+    "images_generated": [
+        "frame_000000.jpg",
+        "frame_000001.jpg",
+        "frame_000002.jpg"
+    ],
+    "timestamp": "2026-02-26 17:28:05"
+}

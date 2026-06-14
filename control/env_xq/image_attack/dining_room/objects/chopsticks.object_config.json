@@ -1,0 +1,10 @@
+{
+    "render_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.glb",
+    "collision_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.glb",
+    "scale": [
+        0.01,
+        0.01,
+        0.01
+    ],
+    "requires_lighting": true
+}

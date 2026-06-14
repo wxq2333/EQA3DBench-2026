@@ -1,0 +1,73 @@
+# Question: Whether the TV is new or old-fashioned
+# Based on the images provided, the TV appears to be a modern style, likely indicating it is new rather than old-fashioned. It has a sleek design without visible knobs or bulky frames, which is commonly associated with contemporary televisions. The overall decor of the room also complements a modern aesthetic.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.801509788603048
+  - -0.7
+  - 4.7
+  rotation:
+  - -58.572653352271146
+  - -17.350049420282886
+  - -13.131751111134122
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.939200040419196
+  - -0.7
+  - 4.981013685853537
+  rotation:
+  - 93.79946742692778
+  - 134.4514067875628
+  - -24.403716072341297
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 5.484489427165574
+  - -0.7
+  - 4.886945186584329
+  rotation:
+  - -118.81447299022312
+  - 32.044660512656606
+  - 69.99327456754912
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 5.103820890086887
+  - -0.7
+  - 4.7
+  rotation:
+  - 61.8303672215755
+  - 116.81565066124779
+  - -58.908863692297246
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.933502789749695
+  - -0.7
+  - 5.005927009033231
+  rotation:
+  - 117.30521043626845
+  - -19.71981222227768
+  - -124.65215350228146
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 5.076028026810248
+  - -0.7
+  - 5.311065539635679
+  rotation:
+  - -124.03647359309676
+  - 0.7238374311111215
+  - -66.18551744300503
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 5.331931898614535
+  - -0.7
+  - 4.9675495346408365
+  rotation:
+  - -157.93642220446986
+  - 148.90124582642045
+  - 72.58376995393363

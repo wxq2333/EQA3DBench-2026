@@ -1,0 +1,17 @@
+Generation 5:
+Object: fox_toy
+Position: [nan, 4.5, nan]
+Rotation: [nan, nan, nan]
+
+Object: slippers
+Position: [nan, 4.5, nan]
+Rotation: [nan, nan, nan]
+
+Object: fuzzy_slippers
+Position: [nan, 4.5, nan]
+Rotation: [nan, nan, nan]
+
+Object: pillow__black
+Position: [nan, 4.5, nan]
+Rotation: [nan, nan, nan]
+

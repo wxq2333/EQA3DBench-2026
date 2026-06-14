@@ -1,0 +1,73 @@
+# Question: Are the flowers in the vase fresh？
+# Based on the images you provided, I cannot determine whether the flowers in the vase are fresh. The images do not show the flowers up close or offer enough detail to assess their condition.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 5.127655306790409
+  - -0.7
+  - 5.056658103732243
+  rotation:
+  - 95.07919440387775
+  - 157.72555598538594
+  - -150.6780134348707
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.1662717433688865
+  rotation:
+  - 121.01273095391002
+  - -36.78222647691399
+  - 5.106711347751769
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 169.7486214535379
+  - -168.570151193747
+  - 134.86308559018903
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 5.408290229510362
+  - -0.7
+  - 5.156770281560184
+  rotation:
+  - 150.27645693841413
+  - 153.7097756200174
+  - -144.14023034930952
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.3640041744179054
+  rotation:
+  - -17.885575682444824
+  - -8.795739711901064
+  - 17.091221127499836
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 21.131392987890507
+  - 41.10368258172488
+  - -3.586941928125384
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.837418494739976
+  rotation:
+  - -105.60446622100255
+  - -108.22022072903955
+  - -5.783170011405133

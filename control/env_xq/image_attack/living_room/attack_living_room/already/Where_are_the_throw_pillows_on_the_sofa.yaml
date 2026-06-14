@@ -1,0 +1,73 @@
+# Question: Where are the throw pillows on the sofa?
+# In the images provided, the throw pillows on the sofa are positioned on the left side of the sofa in the first image, and they appear to be partially on the cushions. In the second and third images, there are also pillows visible on the sofa, with one prominently displayed on the seat, suggesting a somewhat casual arrangement.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 5.383453013007142
+  - -0.7
+  - 4.7
+  rotation:
+  - 45.599198808203255
+  - 163.7864733415135
+  - 155.67459761963187
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7844417151332435
+  rotation:
+  - -87.88277601053561
+  - 84.86613687513199
+  - -111.66270806678926
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -11.12981463716909
+  - -173.19598847376506
+  - -95.12716078840188
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 5.125604935010522
+  - -0.7
+  - 4.7
+  rotation:
+  - 126.74704373581676
+  - 57.80691112771035
+  - -9.892263023584036
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.950132476033438
+  - -0.7
+  - 5.024606614595747
+  rotation:
+  - -147.81000541264095
+  - -163.64525742135714
+  - -145.89142155183987
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 42.6133588432258
+  - -147.75539686148602
+  - -126.80378414535458
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.999459266436436
+  - -0.7
+  - 4.7
+  rotation:
+  - 135.61250258516748
+  - -76.39376594357915
+  - 145.49853047718943

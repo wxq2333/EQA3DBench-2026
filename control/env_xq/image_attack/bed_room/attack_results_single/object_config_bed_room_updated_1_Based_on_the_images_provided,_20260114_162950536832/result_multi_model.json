@@ -1,0 +1,20 @@
+{
+    "yaml_file": "object_config_bed_room_updated_1_Based_on_the_images_provided,_20260114_162950536832.yaml",
+    "question": "Put your slippers in order",
+    "models_used": [
+        "Gemini_Pro",
+        "llama-4-maverick",
+        "Qwen_VL_Max"
+    ],
+    "attacked_answers": {
+        "Gemini_Pro": "I've found four slippers scattered around the room in the first image. To put them in order, you might want to pair them up and place them neatly by the side of the bed.\n\nHere are the locations of the slippers I found:\n- Two slippers on the left side of the floor: one at `{\"point\": [885, 115]}` and another at `{\"point\": [821, 181]}`.\n- Two slippers on the right side of the floor: one at `{\"point\": [746, 895]}` and another at `{\"point\": [785, 941]}`.",
+        "llama-4-maverick": "The slippers are scattered on the floor in front of the bed, mainly on the left side. To put them in order, you should gather all the slippers and place them neatly together, preferably near the entrance or in a designated slippers storage area if available. The slippers on the left side can be aligned and placed in a row for a tidy appearance.",
+        "Qwen_VL_Max": "It looks like the slippers in the bedroom are scattered on the wooden floor. To put them in order, you should:\n\n1. **Gather all the slippers**: Collect the pairs of slippers from around the room—there appear to be at least two pairs visible near the bed and by the door.\n\n2. **Pair them up**: Match each left slipper with its corresponding right one.\n\n3. **Place them neatly**: Position each pair side by side near the foot of the bed or beside the bedside table, depending on your preference for tidiness and accessibility.\n\n4. **Optional**: If there’s a designated spot (like a shoe rack or bench), place them there to keep the space organized.\n\nThis will give the room a clean, welcoming appearance!"
+    },
+    "images_generated": [
+        "frame_000000.jpg",
+        "frame_000001.jpg",
+        "frame_000002.jpg"
+    ],
+    "timestamp": "2026-02-27 10:27:55"
+}

@@ -1,0 +1,73 @@
+# Question: Clean up the trash from the bin
+# There appears to be a small trash bin next to the seating area. Make sure to look inside the bin to see if there's any trash that needs to be removed. Open the bin, remove any trash, and dispose of it properly. If the bin has a liner, ensure it’s not torn or damaged and replace it if necessary.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.961785778727675
+  - -0.7
+  - 5.257775998818292
+  rotation:
+  - -67.53104402237484
+  - 18.127846440651126
+  - -66.08703349355542
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.194025868906751
+  rotation:
+  - 166.30013319862337
+  - 18.730703382916317
+  - -43.025117971005784
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 67.62588200122417
+  - -111.69785267882287
+  - 52.00698979408526
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 84.63280837098137
+  - 129.03045261098066
+  - -116.88605428430964
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.961829680467144
+  - -0.7
+  - 4.7
+  rotation:
+  - 8.721125546494363
+  - -71.66390678859068
+  - -167.16570976294915
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 5.060536929234953
+  - -0.7
+  - 4.7
+  rotation:
+  - 2.9067436721181252
+  - -35.80794324898034
+  - -100.62866986862561
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7014390417558225
+  - -0.7
+  - 4.737633380229067
+  rotation:
+  - -91.96759039682277
+  - -38.07218153290242
+  - -43.16646747995395

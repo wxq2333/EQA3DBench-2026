@@ -1,0 +1,73 @@
+# Question: What colors are the pillows on the couch?
+# The pillows are primarily shades of blue and white.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 5.324630709076293
+  - -0.7
+  - 5.494856628474342
+  rotation:
+  - 145.84511367394725
+  - -68.55795501439125
+  - -105.85832330803657
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.173337546759478
+  rotation:
+  - -44.701779062390784
+  - 92.13674881802206
+  - 123.11202792301799
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 167.87813791061114
+  - -123.24926807706132
+  - -179.926300903932
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 5.188645911668963
+  - -0.7
+  - 4.7
+  rotation:
+  - -133.40123608301616
+  - 1.4922884683166444
+  - 179.10561803751
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.7702013844033395
+  - -0.7
+  - 4.7
+  rotation:
+  - -120.69997790758839
+  - 9.791012693350552
+  - -156.45079497630695
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -150.73606533116637
+  - 33.23958793973026
+  - 40.59081785343517
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.848048635575795
+  - -0.7
+  - 4.7
+  rotation:
+  - -108.8911809854667
+  - -38.78159982158766
+  - -133.40889052420243

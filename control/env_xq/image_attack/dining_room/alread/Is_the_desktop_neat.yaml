@@ -1,0 +1,163 @@
+# Question: Is the desktop neat?
+#  Based on the images provided, the desktop is not particularly neat. There are food items, like a hamburger and fruits, on the table alongside books and a floral arrangement. This clutter suggests that the surface is somewhat disorganized.
+objects:
+- name: banana
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/banana.object_config.json
+  position:
+  - -0.527012020490544
+  - 1.0
+  - -3.1
+  rotation:
+  - 8.490997054698596
+  - -33.06133622027997
+  - 73.93498173925809
+- name: banana(1)
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/banana(1).object_config.json
+  position:
+  - -0.3
+  - 1.0
+  - -3.1
+  rotation:
+  - -143.22988463571107
+  - 65.47197709007872
+  - 153.0627218735196
+- name: chopsticks1
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -0.44
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: chopsticks2
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -0.94
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: chopsticks3
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -1.44
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: club_sandwich_pile
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/club_sandwich_pile.object_config.json
+  position:
+  - -0.64
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: club_sandwich_pile
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/club_sandwich_pile.object_config.json
+  position:
+  - -0.64
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: coffee_mug
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/coffee_mug_school_project.object_config.json
+  position:
+  - -1.257357920281302
+  - 1.0
+  - -3.1
+  rotation:
+  - -130.15297357583103
+  - -94.13289242338405
+  - 132.91864646233353
+- name: flowers_in_vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/flowers_in_vase.object_config.json
+  position:
+  - -0.5520780134408616
+  - 1.0
+  - -3.1
+  rotation:
+  - 89.14193642882992
+  - -22.622059334015773
+  - -103.80069010839213
+- name: dessert_spoon1
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -0.39
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: dessert_spoon2
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -0.89
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: dessert_spoon3
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -1.29
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: fruit_bowl
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/fruit_bowl.object_config.json
+  position:
+  - -0.4331965915093763
+  - 1.0
+  - -3.1
+  rotation:
+  - -1.4303816444671327
+  - -90.46816890927303
+  - 131.95709549222704
+- name: burger
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/krabby-patty-burger.object_config.json
+  position:
+  - -1.1772638418216925
+  - 1.0
+  - -3.1
+  rotation:
+  - 52.00097791040275
+  - 57.65467951649367
+  - 160.5290006632806
+- name: watermelon
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/watermelon_fruit.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - 169.30533937352106
+  - 105.06744494218611
+  - -38.36217127841303
+- name: kitchen_knife
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/kitchen_knife.object_config.json
+  position:
+  - -0.3
+  - 1
+  - -3.4
+  rotation:
+  - 0
+  - 0
+  - 0

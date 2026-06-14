@@ -1,0 +1,163 @@
+# Question: Are bananas still fresh?
+# I can see that bananas are present in the third image. They appear to be fresh and in a ripe condition, sitting among other fruits. There’s no visible indication of them being overripe or spoiled.
+objects:
+- name: banana
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/banana.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - 151.5771686506679
+  - 175.58308241268873
+  - -134.0212429365123
+- name: banana(1)
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/banana(1).object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - -149.78711943367884
+  - -165.3958594939147
+  - -112.84153649531629
+- name: chopsticks1
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -0.44
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: chopsticks2
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -0.94
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: chopsticks3
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -1.44
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: club_sandwich_pile
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/club_sandwich_pile.object_config.json
+  position:
+  - -0.64
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: club_sandwich_pile
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/club_sandwich_pile.object_config.json
+  position:
+  - -0.64
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: coffee_mug
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/coffee_mug_school_project.object_config.json
+  position:
+  - -0.3
+  - 1.0
+  - -3.1
+  rotation:
+  - 147.2246555104399
+  - -119.81599126000071
+  - 149.04410719845134
+- name: flowers_in_vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/flowers_in_vase.object_config.json
+  position:
+  - -1.2115066423401712
+  - 1.0
+  - -3.1
+  rotation:
+  - 88.80000469874625
+  - -50.94441433780733
+  - -127.9467833231686
+- name: dessert_spoon1
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -0.39
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: dessert_spoon2
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -0.89
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: dessert_spoon3
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -1.29
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: fruit_bowl
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/fruit_bowl.object_config.json
+  position:
+  - -0.8089950958130065
+  - 1.0
+  - -3.1
+  rotation:
+  - 116.5380170715892
+  - -135.282315872727
+  - -125.55315596180606
+- name: burger
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/krabby-patty-burger.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - -89.26894073994144
+  - 1.5057077200043523
+  - 90.51566488514447
+- name: watermelon
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/watermelon_fruit.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - -126.4723951901245
+  - 78.64687131659485
+  - 97.032418976938
+- name: kitchen_knife
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/kitchen_knife.object_config.json
+  position:
+  - -0.3
+  - 1
+  - -3.4
+  rotation:
+  - 0
+  - 0
+  - 0

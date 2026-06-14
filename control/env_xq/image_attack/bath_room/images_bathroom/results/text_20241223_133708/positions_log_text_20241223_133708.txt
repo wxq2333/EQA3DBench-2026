@@ -1,0 +1,65 @@
+Generation 1:
+Object: soap_dispenser
+Position: [11.6, 1.0, -10.467596362730651]
+Rotation: [139.0720105610855, -169.32362859133934, -171.39546334830894]
+
+Object: soap_dish
+Position: [11.619105627172967, 1.0, -10.9]
+Rotation: [-175.97485799649206, 152.7769423388321, -140.6184528140669]
+
+Object: soap_from_poly_by_google
+Position: [11.6, 1.0, -10.416082111162632]
+Rotation: [-156.08386267047192, -144.42366908133755, -173.79084834972204]
+
+Generation 2:
+Object: soap_dispenser
+Position: [nan, 1.0, nan]
+Rotation: [nan, nan, nan]
+
+Object: soap_dish
+Position: [nan, 1.0, nan]
+Rotation: [nan, nan, nan]
+
+Object: soap_from_poly_by_google
+Position: [nan, 1.0, nan]
+Rotation: [nan, nan, nan]
+
+Generation 3:
+Object: soap_dispenser
+Position: [nan, 1.0, nan]
+Rotation: [nan, nan, nan]
+
+Object: soap_dish
+Position: [nan, 1.0, nan]
+Rotation: [nan, nan, nan]
+
+Object: soap_from_poly_by_google
+Position: [nan, 1.0, nan]
+Rotation: [nan, nan, nan]
+
+Generation 4:
+Object: soap_dispenser
+Position: [nan, 1.0, nan]
+Rotation: [nan, nan, nan]
+
+Object: soap_dish
+Position: [nan, 1.0, nan]
+Rotation: [nan, nan, nan]
+
+Object: soap_from_poly_by_google
+Position: [nan, 1.0, nan]
+Rotation: [nan, nan, nan]
+
+Generation 5:
+Object: soap_dispenser
+Position: [nan, 1.0, nan]
+Rotation: [nan, nan, nan]
+
+Object: soap_dish
+Position: [nan, 1.0, nan]
+Rotation: [nan, nan, nan]
+
+Object: soap_from_poly_by_google
+Position: [nan, 1.0, nan]
+Rotation: [nan, nan, nan]
+

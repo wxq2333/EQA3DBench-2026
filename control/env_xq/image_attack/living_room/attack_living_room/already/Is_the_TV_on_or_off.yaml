@@ -1,0 +1,73 @@
+# Question: Is the TV on or off?
+# The TV appears to be off. The screen looks black and does not display any content or lights indicating it's powered on.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.313589709118237
+  rotation:
+  - 177.64423277462924
+  - 7.120601668306676
+  - 41.91682039745069
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 5.000688677987464
+  - -0.7
+  - 4.7
+  rotation:
+  - -169.19111156904557
+  - 104.75991425621214
+  - -21.893196183919542
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.829827808337209
+  rotation:
+  - 169.95000876611164
+  - -58.35896149862219
+  - -148.11660819349476
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.5
+  rotation:
+  - -119.697939747573
+  - 84.3319282978498
+  - 159.32004603728012
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.709383835270053
+  - -0.7
+  - 5.1996835871296705
+  rotation:
+  - 114.02742265052422
+  - -108.0581554637426
+  - -93.4350421536929
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.725394464633413
+  - -0.7
+  - 4.7
+  rotation:
+  - 35.62245127996843
+  - -89.65292233178042
+  - 161.37419143681848
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.742712840259873
+  - -0.7
+  - 4.7
+  rotation:
+  - -54.217581485900155
+  - -140.96127401968403
+  - 107.14580948630339

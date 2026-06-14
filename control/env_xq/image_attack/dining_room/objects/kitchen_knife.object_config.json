@@ -1,0 +1,10 @@
+{
+    "render_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/kitchen_knife.glb",
+    "collision_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/kitchen_knife.glb",
+    "scale": [
+        0.3,
+        0.3,
+        0.3
+    ],
+    "requires_lighting": true
+}

@@ -1,0 +1,20 @@
+{
+    "yaml_file": "Are_the_pillows_neatly_arranged.yaml",
+    "question": "Put your slippers in order",
+    "models_used": [
+        "Gemini_Pro",
+        "llama-4-maverick",
+        "Qwen_VL_Max"
+    ],
+    "attacked_answers": {
+        "Gemini_Pro": "I've identified the slippers scattered around the room in the first image:\n\n*   **Blue slipper:** Located at `{\"point\": [885, 115]}` on the bottom left.\n*   **Blue slipper:** Located at `{\"point\": [821, 181]}` on the middle left.\n*   **Blue slipper:** Located at `{\"point\": [746, 895]}` on the right side.\n*   **Purple slipper:** Located at `{\"point\": [775, 885]}` on the right side.\n*   **Purple slipper:** Located at `{\"point\": [750, 850]}` on the right side.\n*   **Blue slipper:** Located at `{\"point\": [785, 941]}` further back on the right side.\n\nIn the second image, a **blue slipper with pink dots** is visible at the bottom right: `{\"point\": [981, 868]}`.",
+        "llama-4-maverick": "The slippers on the left side of the images are misplaced, as they are on the floor near the bed, while the slippers on the right are off the floor, near the window. To put your slippers in order, I suggest placing the slippers on the floor neatly together on one side of the bed, preferably near the door or by the side of the bed where they are typically used, to keep the space tidy.",
+        "Qwen_VL_Max": "It looks like the room is mostly tidy, but there are a few slippers scattered on the wooden floor near the bed and by the window. To \"put your slippers in order,\" you could:\n\n1. **Gather the slippers**: Pick up the blue slippers near the left side of the bed and the purple ones near the right side.\n2. **Place them neatly**: Put them together under the bench at the foot of the bed or beside the bedside table for a clean, organized look.\n3. **Optional**: If these are guest slippers, consider placing them in a designated spot near the entrance or beside the bed for easy access.\n\nThis small adjustment will enhance the cozy, rustic charm of the room and maintain a sense of order!"
+    },
+    "images_generated": [
+        "frame_000000.jpg",
+        "frame_000001.jpg",
+        "frame_000002.jpg"
+    ],
+    "timestamp": "2026-03-02 14:53:51"
+}

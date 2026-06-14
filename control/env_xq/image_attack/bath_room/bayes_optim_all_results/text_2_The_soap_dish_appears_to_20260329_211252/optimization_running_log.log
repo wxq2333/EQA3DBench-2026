@@ -1,0 +1,25 @@
+2026-03-29 21:12:52,014 - INFO - === Start Bayesian Opt for text 2 ===
+2026-03-29 21:12:52,014 - INFO - All results save to: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/bayes_optim_all_results/text_2_The_soap_dish_appears_to_20260329_211252
+2026-03-29 21:13:04,962 - INFO - Gen1 BestFitness:-0.2244873046875
+2026-03-29 21:13:18,167 - INFO - Gen2 BestFitness:-0.2244873046875
+2026-03-29 21:13:31,426 - INFO - Gen3 BestFitness:-0.2244873046875
+2026-03-29 21:13:45,112 - INFO - Gen4 BestFitness:-0.2313232421875
+2026-03-29 21:13:58,414 - INFO - Gen5 BestFitness:-0.2313232421875
+2026-03-29 21:14:12,764 - INFO - Gen6 BestFitness:-0.2313232421875
+2026-03-29 21:14:26,507 - INFO - Gen7 BestFitness:-0.2313232421875
+2026-03-29 21:14:39,861 - INFO - Gen8 BestFitness:-0.2313232421875
+2026-03-29 21:14:54,400 - INFO - Gen9 BestFitness:-0.2313232421875
+2026-03-29 21:15:08,083 - INFO - Gen10 BestFitness:-0.2313232421875
+2026-03-29 21:15:21,645 - INFO - Gen11 BestFitness:-0.2313232421875
+2026-03-29 21:15:35,056 - INFO - Gen12 BestFitness:-0.2313232421875
+2026-03-29 21:15:49,569 - INFO - Gen13 BestFitness:-0.2313232421875
+2026-03-29 21:16:03,573 - INFO - Gen14 BestFitness:-0.2313232421875
+2026-03-29 21:16:18,458 - INFO - Gen15 BestFitness:-0.2313232421875
+2026-03-29 21:16:33,096 - INFO - Gen16 BestFitness:-0.2313232421875
+2026-03-29 21:16:46,948 - INFO - Gen17 BestFitness:-0.2313232421875
+2026-03-29 21:17:00,938 - INFO - Gen18 BestFitness:-0.23193359375
+2026-03-29 21:17:15,985 - INFO - Gen19 BestFitness:-0.23193359375
+2026-03-29 21:17:29,886 - INFO - Gen20 BestFitness:-0.23193359375
+2026-03-29 21:17:29,937 - INFO - Final best YAML saved: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/bayes_optim_all_results/text_2_The_soap_dish_appears_to_20260329_211252/final_best_config.yaml
+2026-03-29 21:17:29,937 - INFO - Restore base yaml done.
+2026-03-29 21:17:29,938 - INFO - All Bayesian optimization finished!

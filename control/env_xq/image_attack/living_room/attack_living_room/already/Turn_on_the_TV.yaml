@@ -1,0 +1,73 @@
+# Question: Turn on the TV
+# Locate the remote control, which is likely on the coffee table or near the seating area. Ensure the TV is plugged in and properly connected to a power source. Point the remote at the TV and press the power button, usually marked with a circle or a line.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.063582934368131
+  rotation:
+  - 148.04580503841038
+  - -169.00636964934316
+  - 168.78744692572036
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.989017353470998
+  rotation:
+  - 73.14284798398114
+  - -20.199235379075958
+  - -81.10915587689628
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.954696990945445
+  - -0.7
+  - 4.7
+  rotation:
+  - 14.275505650969762
+  - -39.323904133734345
+  - 76.4614186861503
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.7301244623113545
+  - -0.7
+  - 4.8263420832750725
+  rotation:
+  - 68.32464877012686
+  - 113.1496870127782
+  - -167.01199436623168
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 5.352074239428784
+  - -0.7
+  - 4.834940884671249
+  rotation:
+  - -95.52394769967134
+  - 100.21820982109705
+  - -55.22480181501123
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.232274051201485
+  rotation:
+  - 43.587393945203985
+  - -166.12604286132697
+  - 164.17417686092494
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 56.114556207745636
+  - -58.04781383520327
+  - 40.00195923852101

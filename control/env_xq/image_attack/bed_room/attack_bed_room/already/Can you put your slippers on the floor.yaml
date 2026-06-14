@@ -1,0 +1,103 @@
+#Question:Can you put your slippers on the floor
+#  Yes, you can put your slippers on the floor. The images show a cozy bedroom with a wooden floor, which appears to be clear of any obstacles in the areas surrounding the bed. 
+objects:
+- name: aesthetic_cute_white_socks
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/aesthetic_cute_white_socks.object_config.json
+  position:
+  - 6.5
+  - 4.2
+  - 2.8
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: aesthetic_cute_white_socks
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/sock(1).object_config.json
+  position:
+  - 6.3
+  - 3.95
+  - 2.8
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: pillow__black
+  path: test_data/objects/livingroom/pillow__black.object_config.json
+  position:
+  - 5.164828515340304
+  - 4.5
+  - 2.6488169736797347
+  rotation:
+  - 67.83345407545471
+  - -79.8765876754913
+  - 38.70045773051706
+- name: pillow(2)
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/pillow(2).object_config.json
+  position:
+  - 5.5
+  - 4.3
+  - 2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: fox_toy
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/fox_toy.object_config.json
+  position:
+  - 6.0
+  - 4.5
+  - 2.4027999145250374
+  rotation:
+  - 121.88150112658786
+  - -62.28094361851015
+  - 50.632315651118404
+- name: cup
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/cup.object_config.json
+  position:
+  - 4.2758727
+  - 4.4
+  - 1.3
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: table_lamp
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/table_lamp.object_config.json
+  position:
+  - 4.0
+  - 4.5
+  - 1.0
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: slippers1
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/slippers.object_config.json
+  position:
+  - 5.0
+  - 4.5
+  - 2.321110865817814
+  rotation:
+  - 74.93217228631937
+  - -4.565001923761315
+  - -42.049758892930925
+- name: slippers2
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/slippers.object_config.json
+  position:
+  - 5.0
+  - 4.5
+  - 2.2
+  rotation:
+  - -9.995457736679384
+  - -72.72702533372251
+  - 148.85419467671124
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/test_data/objects/livingroom/fuzzy_slippers.object_config.json
+  position:
+  - 5.289807368899788
+  - 4.5
+  - 2.2
+  rotation:
+  - 6.794406267133041
+  - -59.070105781599054
+  - 74.49654376111016

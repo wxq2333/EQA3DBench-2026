@@ -1,0 +1,73 @@
+# Question: Where is the globe on the table？
+#  The globe is located on the table in the second image you provided. It is positioned towards the left side of the table, alongside some other decorative items.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.727068632382008
+  - -0.7
+  - 4.7
+  rotation:
+  - -124.52534910088092
+  - -54.01507688337273
+  - -99.23942158073623
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 169.89729725997984
+  - 178.79264522524727
+  - 174.5185948991816
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 178.74955673949302
+  - 146.7420691295112
+  - 31.854734787118787
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -56.985019597548046
+  - -166.55669363948536
+  - -106.0067822538551
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.790267984456341
+  - -0.7
+  - 4.818632860025998
+  rotation:
+  - 133.55592758146656
+  - -28.72292416750156
+  - 173.5587138623809
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 118.90780812022541
+  - 47.26297632028232
+  - -80.85678341476029
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 136.28658698596922
+  - 62.27513795061475
+  - -19.36262302852731

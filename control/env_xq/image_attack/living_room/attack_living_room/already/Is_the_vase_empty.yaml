@@ -1,0 +1,73 @@
+# Question: Is the vase empty?
+# The vase appears to contain flowers, indicating that it is not empty. If you have any other questions or need further insights about the room.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.752482961444948
+  - -0.7
+  - 5.315602564798269
+  rotation:
+  - -113.09876204274121
+  - 9.571760818758747
+  - 57.003189656069935
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.01026141680468
+  rotation:
+  - 77.15817744439317
+  - 84.57619892165803
+  - 52.63823974746461
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 132.1064036479221
+  - 61.244340293017274
+  - 16.033742202314443
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.932299420254391
+  - -0.7
+  - 4.7
+  rotation:
+  - 170.43102451115027
+  - -124.94401954540177
+  - -146.87925076400222
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -51.46982059969963
+  - 142.673686665022
+  - 93.63762936471073
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 166.19778946969848
+  - -44.44216296059133
+  - 17.105632608374947
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -13.327470491275221
+  - 66.2211627889053
+  - 151.48943750785526

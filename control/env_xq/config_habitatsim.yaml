@@ -1,0 +1,19 @@
+env:
+  sim_name: 'ai2thor'  # or 'mp3d'
+  test_scene: "ArchitecTHOR-Test-01"
+  mp3d_scene_dataset: "/home/ubuntu/桌面/control/test_data/datasets--hssd--ai2thor-hab/ai2thor-hab/ai2thor-hab.scene_dataset_config.json"
+  rgb_sensor: true
+  depth_sensor: true
+  semantic_sensor: true
+  display: true
+  enable_physics: false
+  obs_width: 1024
+  obs_height: 1024
+  sensor_height: 1.5
+  seed: 0
+  default_agent: 0
+
+  defaults:
+  - data_paths: default
+
+

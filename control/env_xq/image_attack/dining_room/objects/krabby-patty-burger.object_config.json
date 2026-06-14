@@ -1,0 +1,10 @@
+{
+    "render_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/krabby-patty-burger.glb",
+    "collision_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/krabby-patty-burger.glb",
+    "scale": [
+        0.05,
+        0.05,
+        0.05
+    ],
+    "requires_lighting": true
+}

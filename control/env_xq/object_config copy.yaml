@@ -1,0 +1,92 @@
+objects:
+#- name: Apple
+  # path: "/home/ubuntu/桌面/control/test_data/datasets--hssd--ai2thor-hab/ai2thor-hab/configs/objects/Apple_5.object_config.json"
+  # position:
+  # - 12
+  # - 0.2
+  # - 12
+  # rotation:
+  # - 0
+  # - 0
+  # - 0
+- name: Bread
+  path: "/home/ubuntu/桌面/control/test_data/datasets--hssd--ai2thor-hab/ai2thor-hab/configs/objects/Bread_14.object_config.json"
+  position:
+  # - 12.4
+  # - -0.2
+  # - 12
+  - 14
+  - -0.2
+  - 11
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: Microwave
+  path: "/home/ubuntu/桌面/control/test_data/datasets--hssd--ai2thor-hab/ai2thor-hab/configs/objects/Microwave_1.object_config.json"
+  position:
+  - 11.8
+  - -0.2
+  - 12.4
+  rotation:
+  - 0
+  - 0
+  - 0
+
+- name: Cup 
+  path:"/home/ubuntu/桌面/control/test_data/datasets--hssd--ai2thor-hab/ai2thor-hab/configs/objects/Cup_13.object_config.json"
+  position:
+  - 12.4
+  - -0.2
+  - 12.4
+  rotation:
+  - 0
+  - 0
+  - 0
+
+- name: Milk
+  path: "/home/ubuntu/桌面/control/test_data/objects/milk_carton.glb"
+  position:
+  - 12.5
+  - -0.2
+  - 12.6
+  rotation:
+  - 90
+  - 0
+  - 0
+  - name: Microwave_1
+  path:  "/home/ubuntu/桌面/control/test_data/datasets--hssd--ai2thor-hab/ai2thor-hab/configs/objects/Microwave_1.object_config.json"
+  position:
+  - -0.9534121
+  - 1.3
+  - -2.7506118 
+  rotation:
+  - 0
+  - 90
+  - 0
+
+
+
+
+
+
+- name: pomegranate_fruit
+  path:  "/home/ubuntu/桌面/control/test_data/objects/kitchen/pomegranate_fruit.object_config.json"
+  position:
+  - -1.3494086
+  - 1.65
+  - -3.71685
+  rotation:
+  - 0
+  - 90
+  - 0
+- name: spice_bottle
+  path:  "/home/ubuntu/桌面/control/test_data/objects/kitchen/spice_bottle.object_config.json"
+  position:
+  - -1.3494086
+  - 1.65
+  - -3.71685
+  rotation:
+  - 0
+  - 90
+  - 0

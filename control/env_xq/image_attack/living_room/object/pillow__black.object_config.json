@@ -1,0 +1,6 @@
+{
+    "render_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/pillow__black.glb",
+    "collision_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/pillow__black.glb",
+    "scale": [0.002, 0.002, 0.002],
+    "requires_lighting": true
+}

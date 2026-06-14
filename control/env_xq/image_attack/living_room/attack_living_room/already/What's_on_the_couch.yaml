@@ -1,0 +1,73 @@
+# Question: What's on the couch?
+#  A crumpled blanket or throw that is draped on the couch. A couple of books or magazines placed on the surface. A small decorative object, possibly a plant or flowers, nearby.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.707170134925366
+  - -0.7
+  - 4.7
+  rotation:
+  - -94.50372910693513
+  - 134.5500744143165
+  - 13.975238997885242
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 5.369249985452034
+  - -0.7
+  - 4.7
+  rotation:
+  - 54.45995512991459
+  - -177.27377593769674
+  - 51.25234474954959
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.742129671681929
+  - -0.7
+  - 4.7
+  rotation:
+  - 171.71534918632722
+  - -166.5821331484337
+  - 52.608389331166734
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.3214843480394185
+  rotation:
+  - 97.0457889010915
+  - -122.07237539673343
+  - -172.5549835762052
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 5.152499576753375
+  - -0.7
+  - 4.981713480827816
+  rotation:
+  - 85.8971183620223
+  - -166.19001504959124
+  - -115.73024613264127
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.987791439721493
+  rotation:
+  - -54.634240787360966
+  - -138.04708409239578
+  - 40.153856847885436
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 100.27978624743304
+  - -178.89265350386648
+  - 16.629897276565544

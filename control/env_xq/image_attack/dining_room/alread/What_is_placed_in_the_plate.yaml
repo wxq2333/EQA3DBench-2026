@@ -1,0 +1,163 @@
+# Question: What is placed in the plate?
+# The plate contains a hamburger and a slice of watermelon. In some angles, additional foods like fruits may also be present near the plate, but the hamburger and watermelon are clearly visible.
+objects:
+- name: banana
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/banana.object_config.json
+  position:
+  - -1.1462139173698305
+  - 1.0
+  - -3.1
+  rotation:
+  - 124.15868117641116
+  - -25.37254850910122
+  - -120.31098042385554
+- name: banana(1)
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/banana(1).object_config.json
+  position:
+  - -1.290626361863335
+  - 1.0
+  - -3.1
+  rotation:
+  - 68.91566007386598
+  - -162.7788276819458
+  - -28.94552914445694
+- name: chopsticks1
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -0.44
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: chopsticks2
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -0.94
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: chopsticks3
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/chopsticks.object_config.json
+  position:
+  - -1.44
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: club_sandwich_pile
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/club_sandwich_pile.object_config.json
+  position:
+  - -0.64
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: club_sandwich_pile
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/club_sandwich_pile.object_config.json
+  position:
+  - -0.64
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: coffee_mug
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/coffee_mug_school_project.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - 124.54419199608623
+  - 158.92700939925476
+  - 27.414538834917153
+- name: flowers_in_vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/flowers_in_vase.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - -71.20162375261663
+  - 125.98099938520465
+  - 33.761815240668284
+- name: dessert_spoon1
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -0.39
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: dessert_spoon2
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -0.89
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: dessert_spoon3
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/dessert_spoon.object_config.json
+  position:
+  - -1.29
+  - 0.8
+  - -2.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: fruit_bowl
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/fruit_bowl.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - -54.64599357224024
+  - -128.19530673930734
+  - -167.3888879830992
+- name: burger
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/krabby-patty-burger.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - -159.6428886881831
+  - 132.20780026433272
+  - -99.53890458887406
+- name: watermelon
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/watermelon_fruit.object_config.json
+  position:
+  - -1.34
+  - 1.0
+  - -3.1
+  rotation:
+  - 54.30159993741677
+  - 24.41035213282882
+  - 13.078914101407861
+- name: kitchen_knife
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/dining_room/objects/kitchen_knife.object_config.json
+  position:
+  - -0.3
+  - 1
+  - -3.4
+  rotation:
+  - 0
+  - 0
+  - 0

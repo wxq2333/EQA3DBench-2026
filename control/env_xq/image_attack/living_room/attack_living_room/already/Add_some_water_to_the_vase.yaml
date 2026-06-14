@@ -1,0 +1,73 @@
+# Question: Add some water to the vase
+#  The vase with flowers is situated on the coffee table in front of the seating area. Find a small pitcher or other container in the kitchen or nearby to fill with water. Carefully pour water into the vase until it's filled appropriately for the flowers.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.96023629405685
+  - -0.7
+  - 4.7
+  rotation:
+  - -69.02203509272842
+  - -88.59369281552509
+  - -34.005134814045306
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.431655310866767
+  rotation:
+  - 33.55201603907096
+  - 74.88094306438114
+  - -70.8784770998574
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 5.182015759001906
+  - -0.7
+  - 4.7
+  rotation:
+  - 143.64037773667428
+  - -172.66296738300161
+  - -105.30516891235489
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.991749194904164
+  rotation:
+  - 144.6519414947611
+  - 20.879692124527878
+  - 85.51802538932941
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -20.049268595895967
+  - -44.5260371269959
+  - -8.124350081700754
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.768362100356269
+  rotation:
+  - -52.95641714380584
+  - 130.75189294030088
+  - 147.73171541354793
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.273874819518884
+  rotation:
+  - -178.66811763930124
+  - 8.402626930862937
+  - 17.94487312475053

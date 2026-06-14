@@ -1,0 +1,24 @@
+2026-03-29 21:08:21,811 - INFO - === Start Bayesian Opt for text 1 ===
+2026-03-29 21:08:21,812 - INFO - All results save to: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/bayes_optim_all_results/text_1_The_soap_is_located_on_20260329_210821
+2026-03-29 21:08:36,351 - INFO - Gen1 BestFitness:-0.279052734375
+2026-03-29 21:08:49,468 - INFO - Gen2 BestFitness:-0.279541015625
+2026-03-29 21:09:02,965 - INFO - Gen3 BestFitness:-0.28076171875
+2026-03-29 21:09:18,129 - INFO - Gen4 BestFitness:-0.28564453125
+2026-03-29 21:09:32,196 - INFO - Gen5 BestFitness:-0.28564453125
+2026-03-29 21:09:46,381 - INFO - Gen6 BestFitness:-0.28564453125
+2026-03-29 21:09:55,021 - INFO - Gen7 BestFitness:-0.28564453125
+2026-03-29 21:10:09,172 - INFO - Gen8 BestFitness:-0.28564453125
+2026-03-29 21:10:24,503 - INFO - Gen9 BestFitness:-0.28564453125
+2026-03-29 21:10:38,188 - INFO - Gen10 BestFitness:-0.28564453125
+2026-03-29 21:10:52,723 - INFO - Gen11 BestFitness:-0.286376953125
+2026-03-29 21:11:06,436 - INFO - Gen12 BestFitness:-0.286376953125
+2026-03-29 21:11:19,783 - INFO - Gen13 BestFitness:-0.286376953125
+2026-03-29 21:11:32,860 - INFO - Gen14 BestFitness:-0.286376953125
+2026-03-29 21:11:46,092 - INFO - Gen15 BestFitness:-0.286376953125
+2026-03-29 21:11:59,266 - INFO - Gen16 BestFitness:-0.286376953125
+2026-03-29 21:12:12,422 - INFO - Gen17 BestFitness:-0.286376953125
+2026-03-29 21:12:25,585 - INFO - Gen18 BestFitness:-0.286376953125
+2026-03-29 21:12:38,643 - INFO - Gen19 BestFitness:-0.286376953125
+2026-03-29 21:12:51,961 - INFO - Gen20 BestFitness:-0.288818359375
+2026-03-29 21:12:52,014 - INFO - Final best YAML saved: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/bayes_optim_all_results/text_1_The_soap_is_located_on_20260329_210821/final_best_config.yaml
+2026-03-29 21:12:52,014 - INFO - Restore base yaml done.

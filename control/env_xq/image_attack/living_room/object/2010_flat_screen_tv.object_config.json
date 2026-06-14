@@ -1,0 +1,6 @@
+{
+    "render_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.glb",
+    "collision_asset": "/home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.glb",
+    "scale": [1,1,1],
+    "requires_lighting": true
+}

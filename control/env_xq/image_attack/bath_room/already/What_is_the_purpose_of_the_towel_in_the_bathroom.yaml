@@ -1,0 +1,123 @@
+# Question: What is the purpose of the towel in the bathroom
+# The towel in the bathroom serves a practical purpose, primarily for drying hands or body after washing. It is commonly used to maintain hygiene and comfort in a bathroom setting. Additionally, towels can contribute to the overall aesthetic of the bathroom, depending on their color and material.
+objects:
+- name: towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/towel_rack_41.object_config.json
+  position:
+  - 11.80747721977593
+  - 1.0
+  - -10.27048428593971
+  rotation:
+  - -32.41697876794592
+  - 79.93680965213076
+  - -7.040686687313723
+- name: white_towel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/white_towel.object_config.json
+  position:
+  - 11.655363536724654
+  - 1.0
+  - -10.9
+  rotation:
+  - 105.32581499242411
+  - -109.65436572365603
+  - -71.79132869619372
+- name: toothbrush-holder-ceramic
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush-holder-ceramic.glb
+  position:
+  - 11.6
+  - 1
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toothbrush
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothbrush.object_config.json
+  position:
+  - 11.612972683809497
+  - 1.0
+  - -10.35815748323939
+  rotation:
+  - 132.528648420874
+  - -94.43133999051751
+  - 102.82785657971579
+- name: toothpaste_tube
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/toothpaste_tube.object_config.json
+  position:
+  - 11.935836147011168
+  - 1.0
+  - -10.9
+  rotation:
+  - -110.51671134406962
+  - -155.81535094651397
+  - -40.01098871511243
+- name: soap_dish
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dish.object_config.json
+  position:
+  - 12
+  - 1.0
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: soap_from_poly_by_google
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_from_poly_by_google.object_config.json
+  position:
+  - 12
+  - 1.03
+  - -9.1
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: hair_dryer
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/hair_dryer.object_config.json
+  position:
+  - 12
+  - 1.0
+  - -9.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: table_mirror
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/table_mirror.object_config.json
+  position:
+  - 12
+  - 1.0
+  - -9.4
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: wooden_comb_for_travel
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/wooden_comb_for_travel.object_config.json
+  position:
+  - 11.8
+  - 1.0
+  - -9.8
+  rotation:
+  - 90
+  - 0
+  - 0
+- name: soap_dispenser
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/soap_dispenser.object_config.json
+  position:
+  - 11.7
+  - 1.1
+  - -9.5
+  rotation:
+  - 0
+  - 0
+  - 0
+- name: toilet_paper
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/bath_room/objects/cc0_-_toilet_paper_roll.object_config.json
+  position:
+  - 11.7
+  - 1.0
+  - -7.9
+  rotation:
+  - 0
+  - 0
+  - 0

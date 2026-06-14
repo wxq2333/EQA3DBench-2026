@@ -1,0 +1,73 @@
+# Question: What color is the trash can
+# The trash can is black.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 106.88220097810762
+  - 4.500289600134181
+  - 143.56438491525415
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.765044018258952
+  rotation:
+  - 177.1525836805526
+  - -9.170385005876057
+  - -159.3931660991589
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 5.053777242788463
+  rotation:
+  - -106.5489760502627
+  - 144.77226838690387
+  - 88.36299399382096
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -92.2769087239854
+  - 15.47008932738089
+  - -18.09313564743877
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.887715272660081
+  - -0.7
+  - 5.156534888540031
+  rotation:
+  - -158.63654592650335
+  - -164.41999358310926
+  - -13.47574259298517
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 5.227702803752949
+  - -0.7
+  - 4.746138737920804
+  rotation:
+  - 174.4823819610334
+  - -174.1591381552668
+  - -97.9905257527571
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 5.09633704378674
+  - -0.7
+  - 4.7
+  rotation:
+  - -96.89485482340166
+  - -87.3433758226041
+  - 129.31066901886334

@@ -1,0 +1,73 @@
+# Question: Is there a vase present in the livingroom?
+#  Yes, there is a vase with flowers on the coffee table.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.917364257440454
+  - -0.7
+  - 4.954934205993213
+  rotation:
+  - 155.38494797271187
+  - 141.83920258124306
+  - 83.81989804600778
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 111.95096947436923
+  - 46.39794421147997
+  - 66.69173082953228
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.756724476739709
+  rotation:
+  - 134.78670503460944
+  - -51.88536942235265
+  - 76.48055709723758
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 5.340224025248385
+  - -0.7
+  - 4.7
+  rotation:
+  - -24.483732253522646
+  - 174.50510529981818
+  - -129.76200002829216
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -51.49956376427156
+  - 173.21959533638528
+  - 39.029950614838015
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.975844954024021
+  - -0.7
+  - 5.175634169969834
+  rotation:
+  - -85.25465732244862
+  - 29.496171041284526
+  - -65.36712974524103
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.879411134454424
+  - -0.7
+  - 4.7
+  rotation:
+  - 116.85242074460604
+  - 85.67587168322234
+  - -108.02048619654146

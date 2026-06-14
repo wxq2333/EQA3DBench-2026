@@ -1,0 +1,73 @@
+# Question: What's on the coffee table
+#  A decorative plant or flower arrangement in a vase. A globe. Some magazines or booklets stacked or laid out on the table. A small black item, likely a decorative object or a container.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.832675952968758
+  - -0.7
+  - 4.7
+  rotation:
+  - 66.18421894773402
+  - 44.16907152412148
+  - 87.8293907965271
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 5.329105672617151
+  - -0.7
+  - 4.932638902996825
+  rotation:
+  - -169.87415349001947
+  - -171.2463922487669
+  - 46.67974238613289
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.933921071945359
+  rotation:
+  - -48.59705280215388
+  - 38.863455968371795
+  - 152.4084883598356
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 5.5
+  - -0.7
+  - 4.7
+  rotation:
+  - -52.90949310985616
+  - 142.26412707131328
+  - 10.636786381688694
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -14.517294566614453
+  - 130.37340495845092
+  - 67.94769197867384
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.713984782485873
+  rotation:
+  - -68.45895662743841
+  - 15.03676121517023
+  - 64.43195107063201
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.855412307017739
+  - -0.7
+  - 5.1707458841354175
+  rotation:
+  - 37.41484314419802
+  - 100.028504098388
+  - -102.08389686706715

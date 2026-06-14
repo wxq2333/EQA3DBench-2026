@@ -1,0 +1,73 @@
+# Question: Tidy up the couch
+# There are items such as books and possibly other miscellaneous objects scattered on the couch. These should be picked up and placed in their designated areas. Arrange Pillows and Throws. Check for Debris. Make sure the chairs and seating around the couch are also aligned and organized for a cleaner appearance.
+objects:
+- name: flat_screen_tv
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/2010_flat_screen_tv.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -77.65790122069207
+  - -88.26784652095803
+  - -21.587207418836897
+- name: coffee_mug_school_project
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/coffee_mug_school_project.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - 39.85530938177038
+  - -12.626417353376269
+  - -163.55185514472936
+- name: trash_can
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/trash_can.object_config.json
+  position:
+  - 5.207987564221544
+  - -0.7
+  - 4.786242935485589
+  rotation:
+  - 8.154153263930255
+  - 76.89275244767947
+  - -114.08349176540278
+- name: cradle_globe_game_ready__4k_pbr
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/cradle_globe_game_ready__4k_pbr.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -157.45461210534023
+  - 51.88771614695577
+  - 172.15915543271706
+- name: vase
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/flowers_with_the_vase.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.7
+  rotation:
+  - -77.82771645174063
+  - 131.18104209405482
+  - 140.89822833183052
+- name: magazines
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/vogue_magazines.object_config.json
+  position:
+  - 4.8614777527572866
+  - -0.7
+  - 4.7
+  rotation:
+  - 52.44948927590309
+  - -158.25098868882992
+  - 31.441235699241133
+- name: fuzzy_slippers
+  path: /home/ubuntu/桌面/control/env_xq/image_attack/living_room/object/simple_waves_cushionpillow.object_config.json
+  position:
+  - 4.7
+  - -0.7
+  - 4.8768298036648545
+  rotation:
+  - 159.1054897366787
+  - -54.59715577228681
+  - 44.453638286823804
